@@ -3,18 +3,10 @@
 Here we collect and discuss the best DeFI &amp; Blockchain researches and tools 
 
 Feel free to submit a pull request, with anything from small fixes to translations to tools you'd like to add (or remove!). If adding a new tool, **please add a brief description** that you think new users would understand.
+##
 
 
-```
-________        ___________.__   ________          __        __________                       
-\______ \   ____\_   _____/|__|  \______ \ _____ _/  |______ \______   \_____    ______ ____  
- |    |  \_/ __ \|    __)  |  |   |    |  \\__  \\   __\__  \ |    |  _/\__  \  /  ___// __ \ 
- |    `   \  ___/|     \   |  |   |    `   \/ __ \|  |  / __ \|    |   \ / __ \_\___ \\  ___/ 
-/_______  /\___  >___  /   |__|  /_______  (____  /__| (____  /______  /(____  /____  >\___  >
-        \/     \/    \/                  \/     \/          \/       \/      \/     \/     \/ 
-```
-
-# DeFi Science:
+## DeFi Science:
 
 - [Formal Analysis of Composable DeFi Protocols ](https://arxiv.org/pdf/2103.00540.pdf) - In this paper, authors propose a formal process-algebraic technique that models DeFi protocols in a compositional manner to allow for efficient property verification.
 
