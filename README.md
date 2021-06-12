@@ -1,4 +1,5 @@
 # Ultimate DeFi & Blockchain research-base
+
 Here we collect and discuss the best DeFI &amp; Blockchain researches and tools 
 
 
@@ -67,6 +68,9 @@ Here we collect and discuss the best DeFI &amp; Blockchain researches and tools
 - [A Note on Optimal Fees for Constant Function Market Makers](https://arxiv.org/pdf/2105.13510.pdf) -  Authors present framework that can be used to compute optimal fees for real world pools using past trade data.
 - [The Doge of Wall Street: Analysis and Detection of Pump and Dump Cryptocurrency Manipulations](https://arxiv.org/pdf/2105.00733.pdf) - Authors monitored crypto chats for more than 3 years detecting and analysing around 900 individual events. Then, authors move on to the crowd pump, a new phenomenon that hit the news in the first months of 2021, when a Reddit community inflates the price of the GameStop stocks (GME) and XRP with Dogecoin.
 
+## Disucssion:
+
+[SmartContractResearch Forum](https://www.smartcontractresearch.org) 
 
 
  ## Hack Incident Reporting
@@ -75,6 +79,12 @@ Here we collect and discuss the best DeFI &amp; Blockchain researches and tools
 - [Blockchain Threat Intelligence](https://blockthreat.substack.com/) - Newsletter covering the latest security news, tools, events, vulnerabilities, and threats in the cryptocurrency landscape. Also [supports this repo.](https://github.com/openblocksec/blocksec-incidents)
 - [Blockchain Graveyard](https://magoo.github.io/Blockchain-Graveyard/) - A list of all massive security breaches or thefts involving blockchains.
 
+## Favourites:
+
+- [DeFi Defence DAO Tools](https://github.com/defi-defense-dao/defi-risk-tools-list#developer-tools) 
+- [Orbit](https://github.com/s0md3v/Orbit)
+- [ADF](https://github.com/ong/awesome-decentralized-finance) 
+- [DeFi Toolkit](https://github.com/gweicz/defi-toolkit)
 
 ## Developer Tools 
 
@@ -98,3 +108,14 @@ Here we collect and discuss the best DeFI &amp; Blockchain researches and tools
 - [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
 - [Free Smart Contract Security Audit](https://callisto.network/smart-contract-audit/) - Free smart contract security audits from Callisto Network
 - [Piet](https://piet.slock.it) - A visual Solidity architecture analyzer
+
+
+## Message from CIA:
+
+If you want to support my work (I spend a lot of time analyzing materials before I post them), you can send me a donation to the address:
+
+0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A — ERC20 
+
+32kToCep8CiSS1mLAYE763xBbZaeoHtFgi — BTC
+
+[Follow me on Twitter!](https://twitter.com/officer_cia)
