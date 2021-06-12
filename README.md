@@ -29,6 +29,10 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 
 - [On the Just-In-Time Discovery of Profit-Generating Transactions in DeFi Protocols](https://arxiv.org/pdf/2103.02228.pdf) -In this paper, authors investigate two methods that allow them to automatically create profitable DeFi trades.
 
+- [Maximizing Extractable Value from Automated Market Makers](https://arxiv.org/pdf/2106.01870.pdf)
+
+- [The Decentralized Financial Crisis](https://arxiv.org/pdf/2002.08099.pdf)
+
 - [Liquidations: DeFi on a Knife-edge](https://arxiv.org/pdf/2009.13235v4.pdf)- In order to protect protocols from suffering losses, undercollateralized positions can be liquidated. In this paper, authors present empirical analysis of liquidations on protocols for loanable funds (PLFs).
 
 - [Measuring Asset Composability as a Proxy for DeFi Integration](https://arxiv.org/pdf/2102.04227.pdf)
@@ -59,25 +63,61 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 
 - [Cyclic Arbitrage in Decentralized Exchange Markets](https://arxiv.org/pdf/2105.02784.pdf) - Good Read. This paper suggests that with the smart contract technology and the replicated state machine setting of Ethereum, arbitrage strategies are easier implemented in DEXes than in CEX.
 
+- [SoK: Oracles from the Ground Truth to Market Manipulation](https://arxiv.org/pdf/2106.00667.pdf) 
+
+- [Composing Networks of Automated Market Makers](https://arxiv.org/pdf/2106.00083.pdf) 
+
+- [Cyclic Arbitrage in Decentralized Exchange Markets](https://arxiv.org/pdf/2105.02784.pdf) - Good Read. This paper suggests that with the smart contract technology and the replicated state machine setting of Ethereum, arbitrage strategies are easier implemented in DEXes than in CEX.
+
 ## Security & Safety:
 
 - [ The Eye of Horus: Spotting and Analyzing Attacks on Ethereum Smart Contracts](https://arxiv.org/pdf/2101.06204.pdf) -Investigation shows that the number of attacks did not necessarily decrease over the past few years, but for some vulnerabilities remained constant.
 
+- [Analysis of Bitcoin Vulnerability to Bribery Attacks Launched Through Large Transactions](https://arxiv.org/pdf/2105.07501.pdf)
+
+- [Vulnerability of Blockchain Technologies to Quantum Attacks](https://arxiv.org/pdf/2105.01815.pdf)
+
 - [BLOCKEYE](https://arxiv.org/pdf/2103.02873.pdf) - Hunting For DeFi Attacks on Blockchain.
+
+- [Topological Anomaly Detection in Dynamic Multilayer Blockchain Networks](https://arxiv.org/pdf/2106.01806.pdf)
 
 - [Ponzi Scheme Detection in Ethereum Transaction Network](https://arxiv.org/pdf/2104.08456.pdf) - Authors discover new ways of detecting Ethereum-based Ponzi schemes.
 
+- [Verification of the Incremental Merkle Tree Algorithm with Dafny](https://arxiv.org/pdf/2105.06009.pdf)
+
+- [GoHammer Blockchain Performance Test Tool](https://arxiv.org/pdf/2105.00847.pdf)
+
 - [EtherClue: Digital investigation of attacks on Ethereum smart contracts ](https://arxiv.org/pdf/2104.05293.pdf) - In this work, authors study the problem of post-factum investigation of Ethereum attacks using Indicators of Compromise specially crafted for use in the blockchain.
+
+- [Requirement Analyses and Evaluations of Blockchain Platforms per Possible Use Cases](https://arxiv.org/pdf/2103.03209.pdf)
+
+- [A Note on Privacy in Constant Function Market Makers](https://arxiv.org/pdf/2103.01193.pdf)
 
 - [A Survey of Security Vulnerabilities in Ethereum Smart Contracts](https://arxiv.org/pdf/2105.06974.pdf) -  This paper explains eight vulnerabilities that are specific to the application level of BT by analyzing the exploitation case scenarios of these vulnerabilities.
 
+- [Low-cost attacks on Ethereum 2.0 by sub-1/3 stakeholders](https://arxiv.org/pdf/2102.02247.pdf) 
+
 - [An approach to detect Denial of Service Vulnerability in Ethereum Smart Contracts](https://arxiv.org/pdf/2106.01340.pdf) -  In this paper, authors propose a framework that combines static and dynamic analysis to detect DoS due to an unexpected revert in ETH Smart Contracts.
+
+- [AGSolT: a Tool for Automated Test-Case Generation for Solidity Smart Contracts](https://arxiv.org/pdf/2102.08864.pdf)
+
+- [Temporal-Amount Snapshot MultiGraph for Ethereum Transaction Tracking](https://arxiv.org/pdf/2102.08013.pdf)
 
 - [Ethereum Name Service: the Good, the Bad, and the Ugly](https://arxiv.org/pdf/2104.05185.pdf) - Yet, no existing work has studied this emerging system, the security issues and misbehaviors in ENS. Authors present the first study of ENS by analyzing millions of event logs related to ENS.
 
 - [The Anatomy of a Cryptocurrency Pump-and-Dump Scheme](https://arxiv.org/pdf/1811.10109.pdf) - This paper represents the first detailed empirical query of pump-and-dump activities in cryptocurrency markets.
 
 - [Distinguishing manipulated stocks via trading network analysis](https://arxiv.org/pdf/1110.2260.pdf) - These findings may help to detect manipulated stocks. Distinguishing manipulated stocks via trading network analysis.
+
+- [From Innovations to Prospects: What Is Hidden Behind Cryptocurrencies?](https://arxiv.org/pdf/2103.08924.pdf)
+
+- [Demystifying Cryptocurrency Mining Attacks: A Semi-supervised Learning Approach Based on Digital Forensics and Dynamic Network Characteristics](https://arxiv.org/pdf/2102.10634.pdf)
+
+- [FASTEN: Fair and Secure Distributed Voting Using Smart Contracts](https://arxiv.org/pdf/2102.10594.pdf)
+
+- [Interdependencies between Mining Costs, Mining Rewards and Blockchain Security](https://arxiv.org/pdf/2102.08107.pdf)
+
+- [HyperSec: Visual Analytics for blockchain security monitoring](https://arxiv.org/pdf/2103.14414.pdf)
 
 - [Reentrancy Vulnerability Identification in Ethereum Smart Contracts](https://arxiv.org/pdf/2105.02881.pdf) - In this paper, authors present a framework that combines static and dynamic analysis to detect Reentrancy vulnerabilities in Ethereum smart contracts.
 
@@ -93,13 +133,41 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 
 - [(In)Stability for the Blockchain: Deleveraging Spirals and Stablecoin Attacks](https://arxiv.org/pdf/1906.02152.pdf) - The possibility of deleveraging spirals was first predicted in the initial release of this paper in 2019 and later observed in the Black Thursday crisis in Dai in 2020.
 
+- [An Anonymous Trust-Marking Scheme on Blockchain Systems](https://arxiv.org/pdf/2010.00206.pdf)
+
+- [A Framework and DataSet for Bugs in Ethereum Smart Contracts](https://arxiv.org/pdf/2009.02066.pdf)
+
 - [A Secure Multi-chains Consensus Scheme Against Diverse Miners Behaviors Attacks in Blockchain Networks.](https://arxiv.org/pdf/2106.02383.pdf) - Experimental results show that PoDT is secure against DMB attacks and more effective than traditional consensus schemes in multi-chains environments.
+
+- [A Survey on Consortium Blockchain Consensus Mechanisms](https://arxiv.org/pdf/2102.12058.pdf)
+
+- [Extracting Smart Contracts Tested and Verified in Coq](https://arxiv.org/pdf/2012.09138.pdf)
+
+- [Trustless, privacy-preserving blockchain bridges](https://arxiv.org/pdf/2102.04660.pdf)
+
+- [Measuring Financial Advice: aligning client elicited and revealed riskc(https://arxiv.org/pdf/2105.11892.pdf)
 
 - [Security checklists for Ethereum smart contract development: patterns and best practices](https://arxiv.org/pdf/2008.04761.pdf) - Authors cover the phases of design, coding, and testing and deployment of the software lifecycle.
 
+- [Dynamic Vulnerability Detection on Smart Contracts Using Machine Learning](https://arxiv.org/pdf/2102.07420.pdf)
+
+- [Detecting Malicious Accounts showing Adversarial Behavior in Permissionless Blockchains](https://arxiv.org/pdf/2101.11915.pdf)
+
 - [Targeting the Weakest Link: Social Engineering Attacks in Ethereum Smart Contracts](https://arxiv.org/pdf/2105.00132.pdf) - In this work, authors explore the possibility and existence of new social engineering attacks beyond smart contract honeypots.
 
+- [OptSmart: A Space Efficient Optimistic Concurrent Execution of Smart Contracts](https://arxiv.org/pdf/2102.04875.pdf)
+
 - [The Doge of Wall Street: Analysis and Detection of Pump and Dump Cryptocurrency Manipulations](https://arxiv.org/pdf/2105.00733.pdf) - Authors monitored crypto chats for more than 3 years detecting and analysing around 900 individual events. Then, authors move on to the crowd pump, a new phenomenon that hit the news in the first months of 2021, when a Reddit community inflates the price of the GameStop stocks (GME) and XRP with Dogecoin.
+
+- [DEFECTCHECKER: Automated Smart Contract Defect Detection by Analyzing EVM Bytecode](https://arxiv.org/pdf/2009.02663.pdf)
+
+- [SmartBugs: A Framework to Analyze Solidity Smart Contracts](https://arxiv.org/pdf/2007.04771.pdf)
+
+- [Profiling Gas Leaks in Solidity Smart Contracts](https://arxiv.org/pdf/2008.05449.pdf)
+
+- [Securing Parallel-chain Protocols under Variable Mining Power](https://arxiv.org/pdf/2105.02927.pdf)
+
+- [Blockchain in Cyberdefence: A Technology Review from a Swiss Perspective](https://arxiv.org/pdf/2103.02606.pdf)
 
 - [Ethereum SmartContract Vulnerability Detection using Deep Neural Network and Transfer Learning](https://arxiv.org/pdf/2103.12607.pdf) - ESCORT framework enables transfer learning on new vulnerability types with minimal modification of the DNN model architecture and re-training overhead.
 
@@ -107,9 +175,18 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 
 - [SCSGuard: Deep Scam Detection for Ethereum Smart Contracts](https://arxiv.org/pdf/2105.10426.pdf) - Experimental results manifest that SCSGuard achieves high accuracy (0.94), precision (0.96\%) and recall (0.98) for both Ponzi and Honeypot scams, and new Phishing smart contracts.
 
+- [A blockchain-based Forensic Model for Financial Crime Investigation: The Embezzlement Scenario](https://arxiv.org/pdf/2008.07958.pdf)
+
+- [Securing Cyber-Physical Systems Through Blockchain-Based Digital Twins and Threat Intelligence](https://arxiv.org/pdf/2105.08886.pdf)
+
+- [HyperSec: Visual Analytics for blockchain security monitoring](https://arxiv.org/pdf/2103.14414.pdf)
+
+
 ## Non-Fungible Token (NFT):
 
 - [Mapping the NFT revolution](https://arxiv.org/pdf/2106.00647.pdf) - Market trends, trade networks and visual features.
+
+- [Fairness in ERC token markets: A Case Study of CryptoKitties](https://arxiv.org/pdf/2102.03721.pdf)
 
 - [Non-Fungible Token: Overview, Evaluation, Opportunities and Challenges](https://arxiv.org/pdf/2105.07447.pdf) - In this technical report, authors explore the NFT ecosystems in several aspects.
 
@@ -119,6 +196,8 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 
 - [Reducing the Volatility of Cryptocurrencies — A Survey of Stablecoins](https://arxiv.org/pdf/2103.01340.pdf) -  Authors discuss how stablecoins help reduce the volatility of cryptocurrencies by surveying different types of stablecoins and their stability mechanisms.
 
+- [Understand Volatility of Algorithmic Stablecoin: Modeling, Verification and Empirical Analysis](https://arxiv.org/pdf/2101.08423.pdf)
+
 - [T-Cash: Transferable Fiat Backed Coins](https://arxiv.org/pdf/2105.04485.pdf) -  In this paper authors propose a transferable electronic cash scheme using blockchain technology which allows users to continuously reuse coins within the system.
 
 
@@ -126,37 +205,72 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 
 - [Stochastic Properties of EIP1559 Basefees](https://arxiv.org/pdf/2105.03521.pdf) - Authors explain the new pricing mechanism for the Ethereum developed to bring stability to fluctuating gas prices.
 
+- [A Big Data Analysis of the Ethereum Network: from Blockchain to Google Trends](https://arxiv.org/pdf/2104.01764.pdf) 
+
+- [A DLT-based Smart Contract Architecture for Atomic and Scalable Trading](https://arxiv.org/pdf/2105.02937.pdf)
+
 - [Exploring Etherum Data Stores: A Cost and Performance Comparison ](https://arxiv.org/pdf/2105.10520.pdf) -In this work, authors examine a comprehensive set of data management approaches for ETH apps and assess the associated cost in gas as well as the retrieval performance.
-
-- [A general framework for blockchain analytics](https://arxiv.org/pdf/1707.01021.pdf) - Authors propose a general-purpose framework, supporting data analytics on Bitcoin Ethereum — it allows to integrate block data with data from other sources, and to organise them in a database.
-
-- [A Blockchain Architecture for Industrial Applications](https://arxiv.org/pdf/2005.02483.pdf)
-
-- [Financial Markets Prediction with Deep Learning](https://arxiv.org/pdf/2104.05413.pdf)
 
 - [A Systematic Literature Review on Blockchain Governance](https://arxiv.org/pdf/2105.05460.pdf)
 
+- [On Technical Trading and Social Media Indicators in Cryptocurrencies' Price Classification Through Deep Learning](https://arxiv.org/pdf/2102.08189.pdf)
+
+- [A general framework for blockchain analytics](https://arxiv.org/pdf/1707.01021.pdf) - Authors propose a general-purpose framework, supporting data analytics on Bitcoin Ethereum — it allows to integrate block data with data from other sources, and to organise them in a database.
+
+- [Bandcoin: Using Smart Contracts to Automate Mobile Network Bandwidth Roaming Agreements](https://arxiv.org/pdf/2104.02780.pdf) 
+
+- [A Blockchain Architecture for Industrial Applications](https://arxiv.org/pdf/2005.02483.pdf)
+
 - [Changes to the extreme and erratic behaviour of cryptocurrency during COVID-19](https://arxiv.org/pdf/1912.06193.pdf) - This paper introduces new methods for analysing the extreme and erratic behaviour of time series to evaluate the impact of COVID-19 on market dynamics.
+
+- [Financial Markets Prediction with Deep Learning](https://arxiv.org/pdf/2104.05413.pdf)
+
+- [AMR:Autonomous Coin Mixer with Privacy Preserving Reward Distribution](https://arxiv.org/pdf/2010.01056.pdf) 
 
 - [Technology Review of Blockchain Data Privacy Solutions](https://arxiv.org/pdf/2105.01316.pdf)- This report aims to review existing enterprise blockchain technologies: EOSIO powered systems, Hyperledger Fabric and Besu, Consensus Quorum, R3 Corda and Ernst and Young’s Nightfall.
 
+- [Blockchain Systems, Technologies and Applications: A Methodology Perspective](https://arxiv.org/pdf/2105.03572.pdf) 
+
+- [Ethna: Analyzing the Underlying Peer-to-Peer Network of the Ethereum Blockchain](https://arxiv.org/pdf/2010.01373.pdf) 
+
 - [Dynamical Analysis of the EIP-1559 Ethereum Fee Market](https://arxiv.org/pdf/2102.10567.pdf)- Authors perform a thorough analysis of the resulting fee market dynamic mechanism via a combination of tools from game theory and dynamical systems.
+
+- [Transaction Fee Mechanism Design for the Ethereum Blockchain: An Economic Analysis of EIP-1559](https://arxiv.org/pdf/2012.00854.pdf) 
 
 - [Community Detection in Blockchain Social Networks](https://arxiv.org/pdf/2101.06406.pdf) -  A novel community detection algorithm which is designed for low-rank signals on graph can help find users’ communities based on user-token subscription.
 
+- [Exploring Blockchain for The Coordination of Distributed Energy Resources](https://arxiv.org/pdf/2103.06046.pdf)
+
 - [Exploring asymmetric multifractal cross-correlations of price-volatility in cryptocurrency markets](https://arxiv.org/pdf/2102.02865.pdf) - Authors find that cross-correlations are stronger in downtrend markets than in uptrend markets. In contrast, for Ripple and Litecoin, inverted reactions are present where cross-correlations are stronger in uptrend markets. Authors uncover the dynamics of asymmetric volatility structure and provide new guidance in investigating dynamical relationships between price and volatility for cryptocurrencies.
+
+- [Blockchain for Transactive Energy Management of Distributed Energy Resources in Smart Grid](https://arxiv.org/pdf/2106.02529.pdf) 
 
 - [Measuring Decentralization in Bitcoin and Ethereum using Multiple Metrics and Granularities](https://arxiv.org/pdf/2101.10699.pdf) - Authors show that the degree of decentralization in Bitcoin is higher, while the degree of decentralization in Ethereum is more stable.
 
+- [Block Access Control in Wireless Blockchain Network: Design, Modeling and Analysis](https://arxiv.org/pdf/2104.13144.pdf)
+
 - [A Regulatory System for Optimal Legal Transaction Throughput in Cryptocurrency Blockchains](https://arxiv.org/pdf/2103.16216.pdf)- Authors present a regulatory framework for blockchain protocols, for ensuring legal transaction confirmation as part of the blockchain distributed consensus.
+
+- [Towards External Calls for Blockchain and Distributed Ledger Technology](https://arxiv.org/pdf/2105.10399.pdf)
+
+- [Managing Blockchain Systems and Applications: A Process Model for Blockchain Configurations](https://arxiv.org/pdf/2105.02118.pdf)
 
 - [A Note on Optimal Fees for Constant Function Market Makers](https://arxiv.org/pdf/2105.13510.pdf) -  Authors present framework that can be used to compute optimal fees for real world pools using past trade data.
 
 - [The rich still get richer: Empirical comparison of preferential attachment via linking statistics in Bitcoin and Ethereum](https://arxiv.org/pdf/2102.12064.pdf) - Authors show that preferential attachment continues to be a key factor in the evolution of both currencies.
 
+- [Reward Mechanism for Blockchains Using Evolutionary Game Theory](https://arxiv.org/pdf/2104.05849.pdf) 
+
+- [Summing Up Smart Transitions](https://arxiv.org/pdf/2105.07663.pdf) 
+
 - [How to Issue a Central Bank Digital Currency](https://arxiv.org/pdf/2103.00254.pdf) - Authors contribute to the current research debate by showing how a central bank could do CBDC so, if desired.
 
+- [On the Performance of Blockchain-enabled RAN-as-a-service in Beyond 5G Networks](https://arxiv.org/pdf/2105.14221.pdf) 
+
+- [100+ Metrics for Software Startups - A Multi-Vocal Literature Review](https://arxiv.org/pdf/1901.04819.pdf) 
+
 - [Blockchain Networks: Data Structures of Bitcoin , Monero, Zcash, Ethereum, Ripple and IOTA](https://arxiv.org/pdf/2103.08712.pdf) - Authors discuss how blockchain data can be abstracted as various types of networks, and how network abstractions used to reap insights into the structure.
+
 
 ##
 ```
