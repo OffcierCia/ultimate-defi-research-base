@@ -5,7 +5,7 @@ Here we collect and discuss the best DeFI &amp; Blockchain researches and tools
 Feel free to submit a pull request, with anything from small fixes to translations to tools you'd like to add (or remove!). If adding a new tool, **please add a brief description** that you think new users would understand.
 
 
-## Arxive Science Gate
+## Science DataBase
 
 - [Ponzi Scheme Detection in Ethereum Transaction Network](https://arxiv.org/pdf/2104.08456.pdf) - Authors discover new ways of detecting Ethereum-based Ponzi schemes.
 - [Ethereum Name Service: the Good, the Bad, and the Ugly](https://arxiv.org/pdf/2104.05185.pdf) - Yet, no existing work has studied this emerging system, the security issues and misbehaviors in ENS. Authors present the first study of ENS by analyzing millions of event logs related to ENS.
