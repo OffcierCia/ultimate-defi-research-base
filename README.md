@@ -193,3 +193,6 @@ If you want to support my work (I spend a lot of time analyzing materials before
 
 
 [Follow me on Twitter!](https://twitter.com/officer_cia)
+
+
+(👍 ͡❛ ͜ʖ ͡❛)👍
