@@ -130,6 +130,8 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 
 - [The Doge of Wall Street: Analysis and Detection of Pump and Dump Cryptocurrency Manipulations](https://arxiv.org/pdf/2105.00733.pdf) - Authors monitored crypto chats for more than 3 years detecting and analysing around 900 individual events. Then, authors move on to the crowd pump, a new phenomenon that hit the news in the first months of 2021, when a Reddit community inflates the price of the GameStop stocks (GME) and XRP with Dogecoin.
 
+- [The rich still get richer: Empirical comparison of preferential attachment via linking statistics in Bitcoin and Ethereum](https://arxiv.org/pdf/2102.12064.pdf) - Authors show that preferential attachment continues to be a key factor in the evolution of both currencies.
+
 ## Disucssion:
 
 [SmartContractResearch Forum](https://www.smartcontractresearch.org) 
