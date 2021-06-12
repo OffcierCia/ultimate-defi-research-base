@@ -1,4 +1,4 @@
-# Ultimate DeFi & Blockchain research-base
+# Ultimate DeFi & Blockchain Research Base
 
 Here we collect and discuss the best DeFI &amp; Blockchain researches and tools 
 
