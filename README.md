@@ -54,7 +54,7 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 
 - [Cyclic Arbitrage in Decentralized Exchange Markets](https://arxiv.org/pdf/2105.02784.pdf) - Good Read. This paper suggests that with the smart contract technology and the replicated state machine setting of Ethereum, arbitrage strategies are easier implemented in DEXes than in CEX.
 
-# Security & Safety:
+## Security & Safety:
 
 - [ The Eye of Horus: Spotting and Analyzing Attacks on Ethereum Smart Contracts](https://arxiv.org/pdf/2101.06204.pdf) -Investigation shows that the number of attacks did not necessarily decrease over the past few years, but for some vulnerabilities remained constant.
 
@@ -102,19 +102,19 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 
 - [SCSGuard: Deep Scam Detection for Ethereum Smart Contracts](https://arxiv.org/pdf/2105.10426.pdf) - Experimental results manifest that SCSGuard achieves high accuracy (0.94), precision (0.96\%) and recall (0.98) for both Ponzi and Honeypot scams, and new Phishing smart contracts.
 
-# Non-Fungible Token (NFT):
+## Non-Fungible Token (NFT):
 
 - [Mapping the NFT revolution](https://arxiv.org/pdf/2106.00647.pdf) - Market trends, trade networks and visual features.
 
 - [Non-Fungible Token: Overview, Evaluation, Opportunities and Challenges](https://arxiv.org/pdf/2105.07447.pdf) - CIn this technical report, authors explore the NFT ecosystems in several aspects.
 
-# Stable-Coins:
+## Stable-Coins:
 
 - [Stablecoins 2.0](https://arxiv.org/pdf/2006.12388.pdf) - Authors seek to provide a sound foundation for stablecoin theory, with a risk-based functional characterization of the economic structure of stablecoins.
 
 - [Reducing the Volatility of Cryptocurrencies — A Survey of Stablecoins](https://arxiv.org/pdf/2103.01340.pdf) -  Authors discuss how stablecoins help reduce the volatility of cryptocurrencies by surveying different types of stablecoins and their stability mechanisms.
 
-# General information:
+## General information:
 
 - [Stochastic Properties of EIP1559 Basefees](https://arxiv.org/pdf/2105.03521.pdf) - Authors explain the new pricing mechanism for the Ethereum developed to bring stability to fluctuating gas prices.
 
@@ -200,7 +200,7 @@ ___________           .__            .____    .__          __
 - [Piet](https://piet.slock.it) - A visual Solidity architecture analyzer
 
 
-# Transaction Visualization, Scoring & Tracking:
+## Transaction Visualization, Scoring & Tracking:
 
 - [C-Hound](http://c-hound.ai) 
 - [BlockPath](http://blockpath.com) 
