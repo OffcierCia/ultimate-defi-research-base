@@ -14,9 +14,7 @@ ________        ___________.__  ________          __        __________
         \/     \/    \/                 \/     \/          \/       \/      \/     \/     \/ 
 ```
 
-## Science DataBase
-
-# DeFi:
+# DeFi DataBase:
 
 - [Formal Analysis of Composable DeFi Protocols ](https://arxiv.org/pdf/2103.00540.pdf) - In this paper, authors propose a formal process-algebraic technique that models DeFi protocols in a compositional manner to allow for efficient property verification.
 
