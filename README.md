@@ -151,6 +151,9 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 - [DeFi Defence DAO Tools](https://github.com/defi-defense-dao/defi-risk-tools-list#developer-tools) 
 - [ADF](https://github.com/ong/awesome-decentralized-finance) 
 - [DeFi Toolkit](https://github.com/gweicz/defi-toolkit)
+- [BlockTools](https://github.com/nujabes403/blockchains-tools)
+- [SAW List](https://simpleaswater.com/defi/#analytics)
+
 
 ## Developer Tools 
 
@@ -176,7 +179,7 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 
 
 
-# Transaction Visualization:
+# Transaction Visualization, Scoring & Tracking:
 
 - [C-Hound](http://c-hound.ai) 
 - [BlockPath](http://blockpath.com) 
@@ -185,6 +188,8 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 - [AML Bot](https://amlbot.com) 
 - [Bank Verified](https://bitrankverified.com/home) 
 - [Orbit](https://github.com/s0md3v/Orbit)
+- [Oyente](https://github.com/enzymefinance/oyente)
+- [Arronax](https://github.com/Cryptonomic/Arronax)
 
 
 ## Message from CIA:
