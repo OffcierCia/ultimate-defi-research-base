@@ -296,6 +296,9 @@ __________                 ___________           .__           .____    .__     
 - [DeFi Toolkit](https://github.com/gweicz/defi-toolkit)
 - [BlockTools](https://github.com/nujabes403/blockchains-tools)
 - [SAW List](https://simpleaswater.com/defi/#analytics)
+- [Public APIs](https://github.com/public-apis/public-apis#cryptocurrency)
+
+
 
 
 ## Developer Tools 
