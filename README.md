@@ -2,6 +2,8 @@
 
 Here we collect and discuss the best DeFI &amp; Blockchain researches and tools 
 
+Feel free to submit a pull request, with anything from small fixes to translations to tools you'd like to add (or remove!). If adding a new tool, **please add a brief description** that you think new users would understand.
+
 
 ## Arxive Science Gate
 
