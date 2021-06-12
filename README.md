@@ -210,8 +210,8 @@ ___________           .__            .____    .__          __
 - [Beaconcha](https://beaconcha.in/)
 - [Beaconscan](https://beaconscan.com/)
 - [ETH2stats](https://eth2stats.io/)
-- [Ethereum 2.0 @ ethhub.com](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/)
-- [Ethereum 2.0 clients @ ethhub.com](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth2.0-teams/teams-building-eth2.0/)
+- [Ethereum 2.0 Docs](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/)
+- [Ethereum 2.0 Clients](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth2.0-teams/teams-building-eth2.0/)
 - [ETH2 Forks](https://eth2-fork-mon.stokes.io/) 
 
 
