@@ -220,7 +220,7 @@ ___________           .__            .____    .__          __
 - [Arronax](https://github.com/Cryptonomic/Arronax)
 
 
-## Message from CIA:
+## Support Project:
 
 If you want to support my work (I spend a lot of time analyzing materials before I post them), you can send me a donation to the address:
 
