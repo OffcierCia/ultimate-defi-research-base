@@ -220,9 +220,9 @@ ___________           .__            .____    .__          __
 
 If you want to support my work (I spend a lot of time analyzing materials before I post them), you can send me a donation to the address:
 
-0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A — ERC20 
+**0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A** — ERC20 
 
-32kToCep8CiSS1mLAYE763xBbZaeoHtFgi — BTC
+**32kToCep8CiSS1mLAYE763xBbZaeoHtFgi** — BTC
 
 
 (👍 ͡❛ ͜ʖ ͡❛)👍
