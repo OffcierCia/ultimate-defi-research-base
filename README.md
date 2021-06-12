@@ -144,7 +144,6 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 ## Favourites:
 
 - [DeFi Defence DAO Tools](https://github.com/defi-defense-dao/defi-risk-tools-list#developer-tools) 
-- [Orbit](https://github.com/s0md3v/Orbit)
 - [ADF](https://github.com/ong/awesome-decentralized-finance) 
 - [DeFi Toolkit](https://github.com/gweicz/defi-toolkit)
 
@@ -179,6 +178,7 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 - [GraphSense](http://graphsense.info) 
 - [AML Bot](https://amlbot.com) 
 - [Bank Verified](https://bitrankverified.com/home) 
+- [Orbit](https://github.com/s0md3v/Orbit)
 
 
 ## Message from CIA:
