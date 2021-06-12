@@ -190,5 +190,4 @@ If you want to support my work (I spend a lot of time analyzing materials before
 32kToCep8CiSS1mLAYE763xBbZaeoHtFgi — BTC
 
 
-
-# [Follow me on Twitter!](https://twitter.com/officer_cia)
+[Follow me on Twitter!](https://twitter.com/officer_cia)
