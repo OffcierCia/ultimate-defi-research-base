@@ -109,7 +109,7 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 
 - [Mapping the NFT revolution](https://arxiv.org/pdf/2106.00647.pdf) - Market trends, trade networks and visual features.
 
-- [Non-Fungible Token: Overview, Evaluation, Opportunities and Challenges](https://arxiv.org/pdf/2105.07447.pdf) - CIn this technical report, authors explore the NFT ecosystems in several aspects.
+- [Non-Fungible Token: Overview, Evaluation, Opportunities and Challenges](https://arxiv.org/pdf/2105.07447.pdf) - In this technical report, authors explore the NFT ecosystems in several aspects.
 
 ## Stable-Coins:
 
