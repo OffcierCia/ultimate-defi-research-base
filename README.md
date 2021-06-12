@@ -156,17 +156,6 @@ ________        ___________.__  ________          __        __________
 
 - [The rich still get richer: Empirical comparison of preferential attachment via linking statistics in Bitcoin and Ethereum](https://arxiv.org/pdf/2102.12064.pdf) - Authors show that preferential attachment continues to be a key factor in the evolution of both currencies.
 
-# Tools from CIA
-
-```
-________        ___________.__  ___________           .__          
-\______ \   ____\_   _____/|__| \__    ___/___   ____ |  |   ______
- |    |  \_/ __ \|    __)  |  |   |    | /  _ \ /  _ \|  |  /  ___/
- |    `   \  ___/|     \   |  |   |    |(  <_> |  <_> )  |__\___ \ 
-/_______  /\___  >___  /   |__|   |____| \____/ \____/|____/____  >
-        \/     \/    \/                                         \/ 
-```
-
 
 ## Disucssion:
 
