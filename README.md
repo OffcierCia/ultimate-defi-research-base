@@ -3,6 +3,9 @@
 Here we collect and discuss the best DeFI &amp; Blockchain researches and tools 
 
 Feel free to submit a pull request, with anything from small fixes to translations to tools you'd like to add (or remove!). If adding a new tool, **please add a brief description** that you think new users would understand.
+
+[Twitter](https://twitter.com/officer_cia) | [Support](https://github.com/OffcierCia/ultimate-defi-research-base#message-from-cia) |  <offcierciapr@protonmail.com>
+
 ##
 
 
@@ -220,9 +223,6 @@ If you want to support my work (I spend a lot of time analyzing materials before
 0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A — ERC20 
 
 32kToCep8CiSS1mLAYE763xBbZaeoHtFgi — BTC
-
-
-[Follow me on Twitter!](https://twitter.com/officer_cia)
 
 
 (👍 ͡❛ ͜ʖ ͡❛)👍
