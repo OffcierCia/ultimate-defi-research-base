@@ -154,7 +154,7 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 
 ## Developer Tools 
 
-
+- [Source](https://github.com/defi-defense-dao/defi-risk-tools-list#developer-tools) DeFi Defence DAO collection
 - [CryptoFin Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist) - A checklist of common findings, and issues to watch out for when auditing a contract for a mainnet launch.
 - [MythX](https://mythx.io/) - Security verification platform and tools ecosystem for Ethereum developers
 - [Mythril](https://github.com/ConsenSys/mythril) - Open-source EVM bytecode security analysis tool
@@ -174,7 +174,7 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 - [Free Smart Contract Security Audit](https://callisto.network/smart-contract-audit/) - Free smart contract security audits from Callisto Network
 - [Piet](https://piet.slock.it) - A visual Solidity architecture analyzer
 
-- [Source](https://github.com/defi-defense-dao/defi-risk-tools-list#developer-tools) DeFi Defence DAO collection
+
 
 # Transaction Visualization:
 
