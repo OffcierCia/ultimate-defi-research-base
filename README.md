@@ -14,7 +14,7 @@ ________        ___________.__  ________          __        __________
         \/     \/    \/                 \/     \/          \/       \/      \/     \/     \/ 
 ```
 
-# DeFi DataBase:
+# DeFi Science:
 
 - [Formal Analysis of Composable DeFi Protocols ](https://arxiv.org/pdf/2103.00540.pdf) - In this paper, authors propose a formal process-algebraic technique that models DeFi protocols in a compositional manner to allow for efficient property verification.
 
@@ -197,7 +197,6 @@ ________        ___________.__  ________          __        __________
 - [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
 - [Free Smart Contract Security Audit](https://callisto.network/smart-contract-audit/) - Free smart contract security audits from Callisto Network
 - [Piet](https://piet.slock.it) - A visual Solidity architecture analyzer
-
 
 
 # Transaction Visualization, Scoring & Tracking:
