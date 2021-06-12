@@ -117,6 +117,9 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 
 - [Reducing the Volatility of Cryptocurrencies — A Survey of Stablecoins](https://arxiv.org/pdf/2103.01340.pdf) -  Authors discuss how stablecoins help reduce the volatility of cryptocurrencies by surveying different types of stablecoins and their stability mechanisms.
 
+- [T-Cash: Transferable Fiat Backed Coins](https://arxiv.org/pdf/2105.04485.pdf) -  In this paper authors propose a transferable electronic cash scheme using blockchain technology which allows users to continuously reuse coins within the system.
+
+
 ## General information:
 
 - [Stochastic Properties of EIP1559 Basefees](https://arxiv.org/pdf/2105.03521.pdf) - Authors explain the new pricing mechanism for the Ethereum developed to bring stability to fluctuating gas prices.
