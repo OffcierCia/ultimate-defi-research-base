@@ -209,10 +209,10 @@ ___________           .__            .____    .__          __
 ## Ethereum 2.0
 - [Beaconcha](https://beaconcha.in/)
 - [Beaconscan](https://beaconscan.com/)
-- [ETH2stats](https://eth2stats.io/)
+- [Ethereum 2.0 Stats](https://eth2stats.io/)
 - [Ethereum 2.0 Docs](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/)
 - [Ethereum 2.0 Clients](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth2.0-teams/teams-building-eth2.0/)
-- [ETH2 Forks](https://eth2-fork-mon.stokes.io/) 
+- [Ethereum 2.0 Forks](https://eth2-fork-mon.stokes.io/) 
 
 
 ## Transaction Visualization, Scoring & Tracking:
