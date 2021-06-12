@@ -144,7 +144,7 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 
 - [Trustless, privacy-preserving blockchain bridges](https://arxiv.org/pdf/2102.04660.pdf)
 
-- [Measuring Financial Advice: aligning client elicited and revealed riskc(https://arxiv.org/pdf/2105.11892.pdf)
+- [Measuring Financial Advice: aligning client elicited and revealed risk](https://arxiv.org/pdf/2105.11892.pdf)
 
 - [Security checklists for Ethereum smart contract development: patterns and best practices](https://arxiv.org/pdf/2008.04761.pdf) - Authors cover the phases of design, coding, and testing and deployment of the software lifecycle.
 
@@ -174,11 +174,8 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 
 - [SCSGuard: Deep Scam Detection for Ethereum Smart Contracts](https://arxiv.org/pdf/2105.10426.pdf) - Experimental results manifest that SCSGuard achieves high accuracy (0.94), precision (0.96\%) and recall (0.98) for both Ponzi and Honeypot scams, and new Phishing smart contracts.
 
-- [A blockchain-based Forensic Model for Financial Crime Investigation: The Embezzlement Scenario](https://arxiv.org/pdf/2008.07958.pdf)
-
 - [Securing Cyber-Physical Systems Through Blockchain-Based Digital Twins and Threat Intelligence](https://arxiv.org/pdf/2105.08886.pdf)
 
-- [HyperSec: Visual Analytics for blockchain security monitoring](https://arxiv.org/pdf/2103.14414.pdf)
 
 
 ## Non-Fungible Token (NFT):
