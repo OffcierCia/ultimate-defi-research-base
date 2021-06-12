@@ -67,7 +67,6 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 
 - [Composing Networks of Automated Market Makers](https://arxiv.org/pdf/2106.00083.pdf) 
 
-- [Cyclic Arbitrage in Decentralized Exchange Markets](https://arxiv.org/pdf/2105.02784.pdf) - Good Read. This paper suggests that with the smart contract technology and the replicated state machine setting of Ethereum, arbitrage strategies are easier implemented in DEXes than in CEX.
 
 ## Security & Safety:
 
