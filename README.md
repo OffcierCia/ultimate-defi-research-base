@@ -149,6 +149,10 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 
 - [The rich still get richer: Empirical comparison of preferential attachment via linking statistics in Bitcoin and Ethereum](https://arxiv.org/pdf/2102.12064.pdf) - Authors show that preferential attachment continues to be a key factor in the evolution of both currencies.
 
+- [How to Issue a Central Bank Digital Currency](https://arxiv.org/pdf/2103.00254.pdf) - Authors contribute to the current research debate by showing how a central bank could do CBDC so, if desired.
+
+- [Blockchain Networks: Data Structures of Bitcoin , Monero, Zcash, Ethereum, Ripple and IOTA](https://arxiv.org/pdf/2103.08712.pdf) - Authors discuss how blockchain data can be abstracted as various types of networks, and how network abstractions used to reap insights into the structure.
+
 ##
 ```
 ___________           .__            .____    .__          __   
