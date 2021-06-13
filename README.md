@@ -297,8 +297,7 @@ __________                 ___________           .__           .____    .__     
 - [BlockTools](https://github.com/nujabes403/blockchains-tools)
 - [SAW List](https://simpleaswater.com/defi/#analytics)
 - [Public APIs](https://github.com/public-apis/public-apis#cryptocurrency)
-
-
+- [BTC List](https://github.com/igorbarinov/awesome-bitcoin)
 
 
 ## Developer Tools 
