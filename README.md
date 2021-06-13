@@ -346,7 +346,7 @@ __________                 ___________           .__           .____    .__     
 - [Oyente](https://github.com/enzymefinance/oyente)
 - [Arronax](https://github.com/Cryptonomic/Arronax)
 - [Blockscout](https://github.com/blockscout/blockscout)
-
+- [BTC Parser](https://btcparser.com)
 
 
 ## Support Project:
