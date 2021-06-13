@@ -332,7 +332,6 @@ __________                 ___________           .__           .____    .__     
 - [Ethstats](https://ethstats.io)
 - [ETH Forks](https://forkmon.ethdevops.io) 
 - [Node Stats](https://ethernodes.org)
-- [Public Nodes](https://ethereumnodes.com) 
 - [EVM Networks List](https://chainid.network)
 - [BIP39 Derivation](https://iancoleman.io/bip39)
 - [Vanity Generator](https://github.com/johguse/profanity) 
@@ -378,6 +377,8 @@ __________                 ___________           .__           .____    .__     
 - [Blockscout](https://github.com/blockscout/blockscout)
 - [BTC Parser](https://btcparser.com)
 - [Txstreet](https://txstreet.com/v/eth)
+- [Nansen](https://www.nansen.ai)
+- [Bloxy](https://bloxy.info)
 
 
 ## Support Project:
