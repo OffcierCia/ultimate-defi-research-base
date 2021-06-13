@@ -325,6 +325,36 @@ __________                 ___________           .__           .____    .__     
 - [Free Smart Contract Security Audit](https://callisto.network/smart-contract-audit/) - Free smart contract security audits from Callisto Network
 - [Piet](https://piet.slock.it) - A visual Solidity architecture analyzer
 
+
+## Ethereum Tools
+
+- [Source](https://github.com/gweicz/defi-toolkit) DeFi ToolKit collection
+- [Ethstats](https://ethstats.io)
+- [ETH Forks](https://forkmon.ethdevops.io) 
+- [Node Stats](https://ethernodes.org)
+- [Public Nodes](https://ethereumnodes.com) 
+- [EVM Networks List](https://chainid.network)
+- [BIP39 Derivation](https://iancoleman.io/bip39)
+- [Vanity Generator](https://github.com/johguse/profanity) 
+- [Web Vanity Generator](https://vanity-eth.tk) 
+- [Vanity Eth Generators](https://github.com/search?q=eth+vanity)
+- [FindETH](https://findeth.io) 
+- [Eth Tx Decoder](https://antoncoding.github.io/eth-tx-decoder)
+- [Ethereum input data decoder](https://lab.miguelmota.com/ethereum-input-data-decoder)
+- [Ethereum Gas Charts](https://ethereumprice.org/gas)
+- [Ethereum TxPool Statistics](https://txpool.zengo.com/) 
+- [Gas Prices Dashboard ](https://explore.duneanalytics.com/public/dashboards/qswVMdzbyiiZFdnCDSwx1jfYLOjdaokM4CSGNxsH)
+- [The UI from ABI](https://ethcontract.watch)
+- [Oracles Club](https://oracles.club)
+- [Tx Combo](https://furucombo.app)
+- [ETH or ERC-20 Mass-sender](https://disperse.app)
+- [BulkSender](https://bulksender.app)
+- [ERC20 Meta Token Wrapper](https://github.com/arcadeum/erc20-meta-token) 
+- [Cancel Ethereum Transaction](https://github.com/mds1/Cancel-Ethereum-Transactions)
+- [Fees WTF Calculator](https://fees.wtf) 
+- [Spend Gas Stats](https://txn.finance) 
+
+
 ## Ethereum 2.0
 - [Beaconcha](https://beaconcha.in/)
 - [Beaconscan](https://beaconscan.com/)
@@ -347,6 +377,7 @@ __________                 ___________           .__           .____    .__     
 - [Arronax](https://github.com/Cryptonomic/Arronax)
 - [Blockscout](https://github.com/blockscout/blockscout)
 - [BTC Parser](https://btcparser.com)
+- [Txstreet](https://txstreet.com/v/eth)
 
 
 ## Support Project:
