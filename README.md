@@ -298,6 +298,9 @@ __________                 ___________           .__           .____    .__     
 - [SAW List](https://simpleaswater.com/defi/#analytics)
 - [Public APIs](https://github.com/public-apis/public-apis#cryptocurrency)
 - [BTC List](https://github.com/igorbarinov/awesome-bitcoin)
+- [ConsenSys](https://github.com/ConsenSys/ethereum-developer-tools-list)
+- [EVM Tools](https://github.com/CoinCulture/evm-tools)
+- [Solidity Pro](https://github.com/bkrem/awesome-solidity)
 
 
 ## Developer Tools 
@@ -342,6 +345,8 @@ __________                 ___________           .__           .____    .__     
 - [Orbit](https://github.com/s0md3v/Orbit)
 - [Oyente](https://github.com/enzymefinance/oyente)
 - [Arronax](https://github.com/Cryptonomic/Arronax)
+- [Blockscout](https://github.com/blockscout/blockscout)
+
 
 
 ## Support Project:
