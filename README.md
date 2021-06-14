@@ -353,6 +353,7 @@ __________                 ___________           .__           .____    .__     
 - [Cancel Ethereum Transaction](https://github.com/mds1/Cancel-Ethereum-Transactions)
 - [Fees WTF Calculator](https://fees.wtf) 
 - [Spend Gas Stats](https://txn.finance) 
+- [Pools Stats](https://pools.fyi) 
 
 
 ## NFTs
