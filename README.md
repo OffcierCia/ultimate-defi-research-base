@@ -185,6 +185,8 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 
 - [Non-Fungible Token: Overview, Evaluation, Opportunities and Challenges](https://arxiv.org/pdf/2105.07447.pdf) - In this technical report, authors explore the NFT ecosystems in several aspects.
 
+- [NFT 2.0 - an exploration of "art legos"](https://url.rmrk.app/cia)
+
 ## Stable-Coins:
 
 - [Stablecoins 2.0](https://arxiv.org/pdf/2006.12388.pdf) - Authors seek to provide a sound foundation for stablecoin theory, with a risk-based functional characterization of the economic structure of stablecoins.
