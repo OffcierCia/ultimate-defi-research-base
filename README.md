@@ -6,7 +6,7 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 
 
 
-**[Support Project](https://github.com/OffcierCia/ultimate-defi-research-base/blob/main/README.md#support-project)**
+**[Support Project](https://github.com/OffcierCia/ultimate-defi-research-base/blob/main/README.md#support-project)** :star2:
 
 ##
 
