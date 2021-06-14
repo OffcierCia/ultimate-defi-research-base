@@ -380,7 +380,6 @@ __________                 ___________           .__           .____    .__     
 - [AML Bot](https://amlbot.com) 
 - [Bank Verified](https://bitrankverified.com/home) 
 - [Orbit](https://github.com/s0md3v/Orbit)
-- [Oyente](https://github.com/enzymefinance/oyente)
 - [Arronax](https://github.com/Cryptonomic/Arronax)
 - [Blockscout](https://github.com/blockscout/blockscout)
 - [BTC Parser](https://btcparser.com)
