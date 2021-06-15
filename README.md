@@ -11,15 +11,15 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 ##
 
 
-|        Navigration        | Instant Link                                                                                                |
-|:-------------------------:|-------------------------------------------------------------------------------------------------------------|
-| Tools List                | [Go](https://github.com/OffcierCia/ultimate-defi-research-base#disucssion)                                  |
-| Security Research Base    | [Go](https://github.com/OffcierCia/ultimate-defi-research-base#security--safety)                            |
-| NFT Research Base         | [Go](https://github.com/OffcierCia/ultimate-defi-research-base#non-fungible-token-nft)                      |
-| StableCoin Research Base  | [Go](https://github.com/OffcierCia/ultimate-defi-research-base#stable-coins)                                |
-| General Info              | [Go](https://github.com/OffcierCia/ultimate-defi-research-base#general-information)                         |
-| DeFi Research Base        | [Go](https://github.com/OffcierCia/ultimate-defi-research-base#defi-science)                                |
-| Transaction Scoring       | [Go](https://github.com/OffcierCia/ultimate-defi-research-base#transaction-visualization-scoring--tracking) |
+|        Navigration        | Instant Link                                                                                                     |
+|:-------------------------:|------------------------------------------------------------------------------------------------------------------|
+| Tools List                | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#disucssion)                                  |
+| Security Research Base    | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#security--safety)                            |
+| NFT Research Base         | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#non-fungible-token-nft)                      |
+| StableCoin Research Base  | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#stable-coins)                                |
+| General Info              | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#general-information)                         |
+| DeFi Research Base        | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#defi-science)                                |
+| Transaction Scoring       | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#transaction-visualization-scoring--tracking) |
 
 
 ## DeFi Science:
