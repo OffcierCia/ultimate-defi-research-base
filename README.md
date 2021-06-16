@@ -403,6 +403,14 @@ __________                 ___________           .__           .____    .__     
 - [Nansen](https://www.nansen.ai)
 - [Bloxy](https://bloxy.info)
 - [Solana Explorer](https://solscan.io)
+- [Elliptic](https://www.elliptic.co)
+- [ANChain AI](https://www.anchain.ai)
+- [Cipher Trace](https://ciphertrace.com)
+- [Crystal Blockchain](https://crystalblockchain.com/products)
+- [Uppsala Security](https://uppsalasecurity.com)
+- [Coinfirm](https://www.coinfirm.com)
+- [Solidus Labs](https://www.soliduslabs.com)
+- [TRM Labs](https://trmlabs.com)
 
 
 ## Support Project:
