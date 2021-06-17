@@ -314,6 +314,7 @@ __________                 ___________           .__           .____    .__     
 - [ConsenSys](https://github.com/ConsenSys/ethereum-developer-tools-list)
 - [EVM Tools](https://github.com/CoinCulture/evm-tools)
 - [Solidity Pro](https://github.com/bkrem/awesome-solidity)
+- [Zhihu Research Base](https://zhuanlan.zhihu.com/p/265374061)
 
 
 ## Developer Tools 
