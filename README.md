@@ -305,6 +305,8 @@ __________                 ___________           .__           .____    .__     
 ## Favourites:
 
 - [DeFi Defence DAO Tools](https://github.com/defi-defense-dao/defi-risk-tools-list#developer-tools) 
+- [Eth Dapp Developer Roadmap](https://github.com/thecryptoshed/eth-dapp-developer-roadmap) 
+- [Blockchain Learning Path](https://github.com/protofire/blockchain-learning-path) 
 - [ADF](https://github.com/ong/awesome-decentralized-finance) 
 - [DeFi Toolkit](https://github.com/gweicz/defi-toolkit)
 - [BlockTools](https://github.com/nujabes403/blockchains-tools)
