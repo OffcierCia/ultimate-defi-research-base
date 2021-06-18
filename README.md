@@ -414,6 +414,7 @@ __________                 ___________           .__           .____    .__     
 - [Coinfirm](https://www.coinfirm.com)
 - [Solidus Labs](https://www.soliduslabs.com)
 - [TRM Labs](https://trmlabs.com)
+- [Halborn Forensic](https://halborn.com)
 
 
 ## Support Project:
