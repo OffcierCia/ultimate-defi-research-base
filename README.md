@@ -57,8 +57,6 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 
 - [DeFiRanger](https://arxiv.org/pdf/2104.15068.pdf) -  Detecting Price Manipulation Attacks on DeFi Applications.
 
-- [Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/pdf/2101.05511v2.pdf) - Authors provide evidence that miners already extract Miner Extractable Value (MEV), which could destabilize the blockchain consensus security, as related work has shown.
-
 - [Attacking the DeFi Ecosystem with Flash Loans for Fun and Profit](https://arxiv.org/pdf/2003.03810.pdf) - Flash Loans. DeFi. Classic.
 
 - [SoK: Decentralized Finance (DeFi) ](https://arxiv.org/pdf/2101.08778.pdf) - In this Systematization of Knowledge (SoK), authors delineate the DeFi ecosystem along its principal axes. SCSGuard: Deep Scam Detection for Ethereum Smart Contracts
@@ -279,6 +277,15 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 
 - [Blockchain Networks: Data Structures of Bitcoin , Monero, Zcash, Ethereum, Ripple and IOTA](https://arxiv.org/pdf/2103.08712.pdf) - Authors discuss how blockchain data can be abstracted as various types of networks, and how network abstractions used to reap insights into the structure.
 
+- [Decentralized Finance: On Blockchain- and Smart Contract-Based Financial Markets](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets) - Written by Fabian Schar, gives an overview of blockchain based markets with technical details but in a digestable format; great paper for new comers to the space.
+
+## MEV - Maximal Extractable Value / Miner Extractable Value:
+
+- [Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/pdf/2101.05511v2.pdf) - Authors provide evidence that miners already extract Miner Extractable Value (MEV), which could destabilize the blockchain consensus security, as related work has shown.
+
+- [Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges](https://arxiv.org/pdf/1904.05234.pdf) - Introduces the concept of MEV, the work highlights the large, complex risks created by transaction-ordering dependencies in smart contracts and the ways in which traditional forms of financial-market exploitation are adapting to and penetrating blockchain economies.
+
+- [Flashbots: MEV in Eth2](https://hackmd.io/@flashbots/mev-in-eth2) - In this post, we study transaction ordering in eth2 and analyze MEV-enabled staking yields. We find that MEV will significantly boost validator rewards but may reinforce inequalities among participants of eth2. We also discuss qualitative aspects of MEV in eth2 such as the potential dynamics that will unfold between its largest stakeholders like exchanges and validator pools.
 
 ##
 ```
@@ -317,6 +324,7 @@ __________                 ___________           .__           .____    .__     
 - [EVM Tools](https://github.com/CoinCulture/evm-tools)
 - [Solidity Pro](https://github.com/bkrem/awesome-solidity)
 - [Zhihu Research Base](https://zhuanlan.zhihu.com/p/265374061)
+- [OpenZeppelin - Contracts / Test Helpers + More ](https://github.com/OpenZeppelin)
 
 
 ## Developer Tools 
