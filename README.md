@@ -279,6 +279,8 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 
 - [Decentralized Finance: On Blockchain- and Smart Contract-Based Financial Markets](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets) - Written by Fabian Schar, gives an overview of blockchain based markets with technical details but in a digestable format; great paper for new comers to the space.
 
+- [Theory and Implementation of Elliptic Curve Cryptography](https://scialert.net/fulltext/?doi=jas.2005.604.633) - This work describes the mathematics needed to implement Elliptic Curve Cryptography (ECC) with special attention to its implementation in Galois Field. Here the functionality of ECC, its advantages and challenges over other cryptosystems are also explained.
+
 ## MEV - Maximal Extractable Value / Miner Extractable Value:
 
 - [Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/pdf/2101.05511v2.pdf) - Authors provide evidence that miners already extract Miner Extractable Value (MEV), which could destabilize the blockchain consensus security, as related work has shown.
