@@ -351,6 +351,7 @@ __________                 ___________           .__           .____    .__     
 - [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
 - [Free Smart Contract Security Audit](https://callisto.network/smart-contract-audit/) - Free smart contract security audits from Callisto Network
 - [Piet](https://piet.slock.it) - A visual Solidity architecture analyzer
+- [Dappy](https://dappy.tech) - A no-DNS web browser and name system powered by the blockchain.
 
 
 ## Ethereum Tools
