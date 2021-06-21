@@ -351,7 +351,7 @@ __________                 ___________           .__           .____    .__     
 - [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
 - [Free Smart Contract Security Audit](https://callisto.network/smart-contract-audit/) - Free smart contract security audits from Callisto Network
 - [Piet](https://piet.slock.it) - A visual Solidity architecture analyzer
-- [Dappy](https://dappy.tech) - A no-DNS web browser and name system powered by the blockchain.
+- [Dappy](https://dappy.tech) - A no-DNS web browser and name system powered by the blockchain. - added by [Fabcotech](https://github.com/fabcotech)
 
 
 ## Ethereum Tools
@@ -389,7 +389,7 @@ __________                 ___________           .__           .____    .__     
 - [CryptoArtPulse](https://cryptoartpulse.com/) - Live View
 - [PumpMyGas](https://pumpmygas.xyz/) - Live estimates of gas fees on all major NFT marketplaces
 - [NonFungible Tracker](https://nonfungible.com/) - NFT tracker
-- [RMRK App](https://app.subsocial.network/@rmrkapp/dawn-of-the-art-legos-18289) - NFT Project on Kusama & Polkadot
+- [RMRK App](https://app.subsocial.network/@rmrkapp/dawn-of-the-art-legos-18289) - NFT Project on Kusama & Polkadot - added by [Swader](https://github.com/Swader)
 - [NFTS TOP]( https://cryptoslam.io) - NFT Ranking
 
 
