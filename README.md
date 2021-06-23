@@ -12,7 +12,7 @@
 ##
 
 
-|        Navigration        | Instant Link                                                                                                     |
+|        Navigation        | Instant Link                                                                                                     |
 |:-------------------------:|------------------------------------------------------------------------------------------------------------------|
 | Tools List                | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#disucssion)                                  |
 | Security Research Base    | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#security--safety)                            |
@@ -149,7 +149,7 @@
 
 - [A Secure Multi-chains Consensus Scheme Against Diverse Miners Behaviors Attacks in Blockchain Networks.](https://arxiv.org/pdf/2106.02383.pdf) - Experimental results show that PoDT is secure against DMB attacks and more effective than traditional consensus schemes in multi-chains environments.
 
-- [A Survey on Consortium Blockchain Consensus Mechanisms](https://arxiv.org/pdf/2102.12058.pdf) - This paper highilights several state-of-the art solutions in consensus algorithms for enterprise blockchain. 
+- [A Survey on Consortium Blockchain Consensus Mechanisms](https://arxiv.org/pdf/2102.12058.pdf) - This paper highlights several state-of-the art solutions in consensus algorithms for enterprise blockchain. 
 
 - [Extracting Smart Contracts Tested and Verified in Coq](https://arxiv.org/pdf/2012.09138.pdf) - Authors implement extraction of Coq programs to functional languages based on MetaCoq's certified erasure. 
 
@@ -216,7 +216,7 @@
 
 - [A DLT-based Smart Contract Architecture for Atomic and Scalable Trading](https://arxiv.org/pdf/2105.02937.pdf) -  In this paper, authors propose an atomic, scalable and privacy-preserving protocol that enables secure and dynamic updates. Then develop a smart contract-based Credit-Note System (CNS) that allows participants to lock funds before a state channel initialisation, which enhances flexibility and efficiency.
 
-- [Exploring Etherum Data Stores: A Cost and Performance Comparison ](https://arxiv.org/pdf/2105.10520.pdf) -In this work, authors examine a comprehensive set of data management approaches for ETH apps and assess the associated cost in gas as well as the retrieval performance.
+- [Exploring Ethereum Data Stores: A Cost and Performance Comparison ](https://arxiv.org/pdf/2105.10520.pdf) -In this work, authors examine a comprehensive set of data management approaches for ETH apps and assess the associated cost in gas as well as the retrieval performance.
 
 - [A Systematic Literature Review on Blockchain Governance](https://arxiv.org/pdf/2105.05460.pdf) - This study comprehensively investigates blockchain governance via 5W1H questions.
 
@@ -236,7 +236,7 @@
 
 - [Technology Review of Blockchain Data Privacy Solutions](https://arxiv.org/pdf/2105.01316.pdf)- This report aims to review existing enterprise blockchain technologies: EOSIO powered systems, Hyperledger Fabric and Besu, Consensus Quorum, R3 Corda and Ernst and Young’s Nightfall.
 
-- [Blockchain Systems, Technologies and Applications: A Methodology Perspective](https://arxiv.org/pdf/2105.03572.pdf) - First, this article introduces how blockchain works, the research activity and challenge, and illustrates the roadmap involving the classic methodology with typical blockchain use cases and topics. Second, in blockchain system, how to adopt stochastic process, game theory, optimization, machine learning and cryptography to study blockchain running process and design blockchain protocol/algorithm are discussed in details.
+- [Blockchain Systems, Technologies and Applications: A Methodology Perspective](https://arxiv.org/pdf/2105.03572.pdf) - First, this article introduces how blockchain works, the research activity and challenge, and illustrates the roadmap involving the classic methodology with typical blockchain use cases and topics. Second, in a blockchain system, how to adopt stochastic processes, game theory, optimization, machine learning and cryptography to study blockchain running processes and design blockchain protocol/algorithm are discussed in detail.
 
 - [Ethna: Analyzing the Underlying Peer-to-Peer Network of the Ethereum Blockchain](https://arxiv.org/pdf/2010.01373.pdf) - Ethna implements a novel method that accurately measures the degrees of Ethereum nodes.
 
@@ -262,7 +262,7 @@
 
 - [Managing Blockchain Systems and Applications: A Process Model for Blockchain Configurations](https://arxiv.org/pdf/2105.02118.pdf) - Authors demonstrate the applicability of the proposed blockchain configuration process model on four blockchain projects
 
-- [A Note on Optimal Fees for Constant Function Market Makers](https://arxiv.org/pdf/2105.13510.pdf) -  Authors present framework that can be used to compute optimal fees for real world pools using past trade data.
+- [A Note on Optimal Fees for Constant Function Market Makers](https://arxiv.org/pdf/2105.13510.pdf) -  Authors present a framework that can be used to compute optimal fees for real world pools using past trade data.
 
 - [The rich still get richer: Empirical comparison of preferential attachment via linking statistics in Bitcoin and Ethereum](https://arxiv.org/pdf/2102.12064.pdf) - Authors show that preferential attachment continues to be a key factor in the evolution of both currencies.
 
@@ -276,9 +276,9 @@
 
 - [100+ Metrics for Software Startups - A Multi-Vocal Literature Review](https://arxiv.org/pdf/1901.04819.pdf) -  Using data in the form of metrics can help software startups to make the right decisions amidst uncertainty and limited resources. 
 
-- [Blockchain Networks: Data Structures of Bitcoin , Monero, Zcash, Ethereum, Ripple and IOTA](https://arxiv.org/pdf/2103.08712.pdf) - Authors discuss how blockchain data can be abstracted as various types of networks, and how network abstractions used to reap insights into the structure.
+- [Blockchain Networks: Data Structures of Bitcoin , Monero, Zcash, Ethereum, Ripple and IOTA](https://arxiv.org/pdf/2103.08712.pdf) - Authors discuss how blockchain data can be abstracted as various types of networks, and how network abstractions are used to reap insights into the structure.
 
-- [Decentralized Finance: On Blockchain- and Smart Contract-Based Financial Markets](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets) - Written by Fabian Schar, gives an overview of blockchain based markets with technical details but in a digestable format; great paper for new comers to the space.
+- [Decentralized Finance: On Blockchain- and Smart Contract-Based Financial Markets](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets) - Written by Fabian Schar, gives an overview of blockchain based markets with technical details but in a digestible format; great paper for newcomers to the space.
 
 - [Theory and Implementation of Elliptic Curve Cryptography](https://scialert.net/fulltext/?doi=jas.2005.604.633) - This work describes the mathematics needed to implement Elliptic Curve Cryptography (ECC) with special attention to its implementation in Galois Field. Here the functionality of ECC, its advantages and challenges over other cryptosystems are also explained.
 
@@ -301,7 +301,7 @@ __________                 ___________           .__           .____    .__     
                                                            \/          \/       \/                 
 ```
 
-## Disucssion:
+## Discussion:
 
 [SmartContractResearch Forum](https://www.smartcontractresearch.org) 
 
