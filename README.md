@@ -444,7 +444,7 @@ If you want to support my work, you can send me a donation to the address:
 
 ##
 
-<offcierciapr@protonmail.com>
+[![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com) 
 
 
 (👍 ͡❛ ͜ʖ ͡❛)👍
