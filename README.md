@@ -288,7 +288,7 @@
 
 - [An in-depth guide into how the mempool works](https://blog.kaiko.com/an-in-depth-guide-into-how-the-mempool-works-c758b781c608) - Understanding the mempool, short but in-depth coverage.
 
-- [The Decentralised Financial Crisis](https://arxiv.org/abs/2002.08099) - The Global Financial Crisis of 2008, caused by the accumulation of excessive financial risk, inspired Satoshi Nakamoto to create Bitcoin. Now, more than ten years later, Decentralized Finance (DeFi), a peer-to-peer financial paradigm which leverages blockchain-based smart contracts to ensure its integrity and security, contains over 702m USD of capital as of April 15th, 2020. As this ecosystem develops, it is at risk of the very sort of financial meltdown it is supposed to be preventing. In this paper we explore how design weaknesses and price fluctuations in DeFi protocols could lead to a DeFi crisis.
+- [The Decentralised Financial Crisis](https://arxiv.org/abs/2002.08099) - The Global Financial Crisis of 2008, caused by the accumulation of excessive financial risk, inspired Satoshi Nakamoto to create Bitcoin. Now, more than ten years later, Decentralized Finance (DeFi), a peer-to-peer financial paradigm which leverages blockchain-based smart contracts to ensure its integrity and security, contains over 702m USD of capital as of April 15th, 2020. As this ecosystem develops, it is at risk of the very sort of financial meltdown it is supposed to be preventing. In this paper we explore how design weaknesses and price fluctuations in DeFi protocols could lead to a potential DeFi crisis.
 
 
 ## MEV - Maximal Extractable Value:
