@@ -6,7 +6,7 @@
 
 
 
-[![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/ultimate-defi-research-base#support-project) [![Developer RoadMap](https://img.shields.io/badge/Developer-Road%20Map-blue)](https://github.com/OffcierCia/DeFi-Developer-Road-Map) 
+[![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/ultimate-defi-research-base#support-project) [![Developer RoadMap](https://img.shields.io/badge/Developer-Road%20Map-blue)](https://github.com/OffcierCia/DeFi-Developer-Road-Map) [![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com) 
 
 
 ##
@@ -444,7 +444,7 @@ If you want to support my work, you can send me a donation to the address:
 
 ##
 
-[![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com) 
-
 
 (👍 ͡❛ ͜ʖ ͡❛)👍
+
+
