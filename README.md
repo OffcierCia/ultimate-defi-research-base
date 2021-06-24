@@ -12,7 +12,7 @@
 ##
 
 
-|        Navigation        | Instant Link                                                                                                     |
+|        Navigation         | Instant Link                                                                                                     |
 |:-------------------------:|------------------------------------------------------------------------------------------------------------------|
 | Tools List                | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#disucssion)                                  |
 | Security Research Base    | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#security--safety)                            |
@@ -21,7 +21,7 @@
 | General Info              | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#general-information)                         |
 | DeFi Research Base        | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#defi-science)                                |
 | Transaction Scoring       | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#transaction-visualization-scoring--tracking) |
-
+| MEV                       | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#MEV---Maximal-Extractable-Value)             |
 
 ## DeFi Science:
 
@@ -282,7 +282,16 @@
 
 - [Theory and Implementation of Elliptic Curve Cryptography](https://scialert.net/fulltext/?doi=jas.2005.604.633) - This work describes the mathematics needed to implement Elliptic Curve Cryptography (ECC) with special attention to its implementation in Galois Field. Here the functionality of ECC, its advantages and challenges over other cryptosystems are also explained.
 
-## MEV - Maximal Extractable Value / Miner Extractable Value:
+- [An Incomplete Guide to Rollups by Vitalik](https://vitalik.ca/general/2021/01/05/rollup.html) - Rollups are all the rage in the Ethereum community, and are poised to be the key scalability solution for Ethereum for the foreseeable future. But what exactly is this technology, what can you expect from it and how will you be able to use it? This post will attempt to answer some of those key questions.
+
+- [Understanding an Ethereum Transaction](https://info.etherscan.com/understanding-an-ethereum-transaction/) - Coverage of the transaction life cycle.
+
+- [An in-depth guide into how the mempool works](https://blog.kaiko.com/an-in-depth-guide-into-how-the-mempool-works-c758b781c608) - Understanding the mempool, short but in-depth coverage.
+
+- [The Decentralised Financial Crisis](https://arxiv.org/abs/2002.08099) - The Global Financial Crisis of 2008, caused by the accumulation of excessive financial risk, inspired Satoshi Nakamoto to create Bitcoin. Now, more than ten years later, Decentralized Finance (DeFi), a peer-to-peer financial paradigm which leverages blockchain-based smart contracts to ensure its integrity and security, contains over 702m USD of capital as of April 15th, 2020. As this ecosystem develops, it is at risk of the very sort of financial meltdown it is supposed to be preventing. In this paper we explore how design weaknesses and price fluctuations in DeFi protocols could lead to a DeFi crisis.
+
+
+## MEV - Maximal Extractable Value:
 
 - [Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/pdf/2101.05511v2.pdf) - Authors provide evidence that miners already extract Miner Extractable Value (MEV), which could destabilize the blockchain consensus security, as related work has shown.
 
@@ -403,6 +412,8 @@ __________                 ___________           .__           .____    .__     
 - [Ethereum 2.0 Docs](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/)
 - [Ethereum 2.0 Clients](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth2.0-teams/teams-building-eth2.0/)
 - [Ethereum 2.0 Forks](https://eth2-fork-mon.stokes.io/) 
+- [Ethereum 2.0 Multi-node Validator Client](https://github.com/attestantio/vouch)
+- [Ethereum 2.0 Distributed Remote Key Manager](https://github.com/attestantio/dirk)
 
 
 ## Transaction Visualization, Scoring & Tracking:
