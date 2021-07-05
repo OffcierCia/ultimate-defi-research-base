@@ -208,6 +208,17 @@
 - [T-Cash: Transferable Fiat Backed Coins](https://arxiv.org/pdf/2105.04485.pdf) -  In this paper authors propose a transferable electronic cash scheme using blockchain technology which allows users to continuously reuse coins within the system.
 
 
+## Blockchain Governance:
+
+- [Blockchain Governance—A New Way of Organizing Collaborations?](https://pubsonline.informs.org/doi/pdf/10.1287/orsc.2020.1379) - Authors assert that the recent emergence of blockchain and decentralization-based paradigms are a critical turning point in organizing collaborations. The scope of blockchains as efficient governance mechanisms is examined, particularly what different types of blockchain platforms may emerge, who is involved and impacted by blockchain governance, why actors may want blockchain,, when and where blockchain is more effective compared to existing technologies, and how blockchains influence a number of organizational outcomes.
+
+- [Blockchain as a confidence machine: The problem of trust & challenges of governance](https://www.sciencedirect.com/science/article/pii/S0160791X20303067) - Authors assert that Blockchain is rather a confidence machine moreso than a technology solely defined by zero-trust networks. They expound upon how the distributed heterogeneous web of actors participating in the network and their various behaviors ultimately determine the trustworthiness of a blockchain platform, while concluding with legal, constitutional, and polycentric governance theory to explore governance challenges of blockchain-based systems in the light between procedureal confidence and trust.
+
+- [Governance in the Blockchain Economy: A Framework and Research Agenda](https://pure.itu.dk/portal/files/82931178/Governance_in_the_blockchain_economy_a_framework_and_research_agenda.pdf) - Authors discuss the new implications and radical differences of a blockchain-powered economy from established notions of governance, measured by three dimensions in IT governance literature- decision rights, accountability, and incentives.
+
+- [Governance in Blockchain Technologies & Social Contract Theories](http://www.ledgerjournal.org/ojs/ledger/article/view/62/51) - Authors examine and cross-reference social contract theories from contemporary blockchain developer communities to that of well-known works from Hobbes, Rosseau, and Rawls. Blockchain governance is evaluated on key governance themes in functional social contracts, focusing on sovereignty, initial context, decentralization, and distributive justice.
+
+
 ## General information:
 
 - [Stochastic Properties of EIP1559 Basefees](https://arxiv.org/pdf/2105.03521.pdf) - Authors explain the new pricing mechanism for the Ethereum developed to bring stability to fluctuating gas prices.
