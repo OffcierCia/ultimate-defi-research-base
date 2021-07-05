@@ -14,7 +14,6 @@
 
 |        Navigation         | Instant Link                                                                                                     |
 |:-------------------------:|------------------------------------------------------------------------------------------------------------------|
-| Tools List                | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#disucssion)                                  |
 | Security Research Base    | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#security--safety)                            |
 | NFT Research Base         | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#non-fungible-token-nft)                      |
 | StableCoin Research Base  | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#stable-coins)                                |
