@@ -112,6 +112,8 @@
 
 - [Temporal-Amount Snapshot MultiGraph for Ethereum Transaction Tracking](https://arxiv.org/pdf/2102.08013.pdf) - Authors propose TASMG to model Ethereum transaction records as a temporal-amount network and then present TAW to effectively embed accounts via their transaction records, which integrates temporal and amount information of the proposed network.
 
+- [Smart Contract Vulnerability Detection: From Pure Neural Network to Interpretable Graph Feature and Expert Pattern Fusion](https://arxiv.org/abs/2106.09282) - Understanding smart contracts scan tools. 
+
 - [Ethereum Name Service: the Good, the Bad, and the Ugly](https://arxiv.org/pdf/2104.05185.pdf) - Yet, no existing work has studied this emerging system, the security issues and misbehaviors in ENS. Authors present the first study of ENS by analyzing millions of event logs related to ENS.
 
 - [The Anatomy of a Cryptocurrency Pump-and-Dump Scheme](https://arxiv.org/pdf/1811.10109.pdf) - This paper represents the first detailed empirical query of pump-and-dump activities in cryptocurrency markets.
