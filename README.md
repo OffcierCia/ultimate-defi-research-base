@@ -208,6 +208,8 @@
 
 - [T-Cash: Transferable Fiat Backed Coins](https://arxiv.org/pdf/2105.04485.pdf) -  In this paper authors propose a transferable electronic cash scheme using blockchain technology which allows users to continuously reuse coins within the system.
 
+- [EVO Protocol: a Volumetric time based stabilizing pool to make any asset price-stable](https://github.com/sambacha/evo-whitepaper) - Author demonstrates a 
+price surcharge system based on calculated a time-dependent average transfer rate that enables any cryptoasset to be price-stable.
 
 ## Blockchain Governance:
 
