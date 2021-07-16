@@ -456,6 +456,7 @@ __________                 ___________           .__           .____    .__     
 - [Solidus Labs](https://www.soliduslabs.com)
 - [TRM Labs](https://trmlabs.com)
 - [Halborn Forensic](https://halborn.com)
+- [Visual List](https://www.lopp.net/bitcoin-information/visualizations.html)
 
 
 ## Support Project:
