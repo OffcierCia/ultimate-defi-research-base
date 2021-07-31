@@ -78,6 +78,8 @@
 
 - [Composing Networks of Automated Market Makers](https://arxiv.org/pdf/2106.00083.pdf) - This paper proposes a mathematical model for AMM composition.
 
+- [Constant Function Market Makers: Multi-Asset Trades via Convex Optimization](https://arxiv.org/pdf/2107.12484.pdf) - A very pedagogical overview of CFMMs and their properties through mathematical modelization from first principles.
+
 
 ## Security & Safety:
 
