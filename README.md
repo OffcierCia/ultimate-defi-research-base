@@ -438,7 +438,6 @@ __________                 ___________           .__           .____    .__     
 
 ## Transaction Visualization, Scoring & Tracking:
 
-- [C-Hound](http://c-hound.ai) 
 - [BlockPath](http://blockpath.com) 
 - [Maltego](http://maltego.com) 
 - [GraphSense](http://graphsense.info) 
