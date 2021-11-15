@@ -202,6 +202,8 @@
 
 - [Non-Fungible Token: Overview, Evaluation, Opportunities and Challenges](https://arxiv.org/pdf/2105.07447.pdf) - In this technical report, authors explore the NFT ecosystems in several aspects.
 
+- [Networks of Ethereum Non-Fungible Tokens: A graph-based analysis of the ERC-721 ecosystem](https://arxiv.org/pdf/2110.12545.pdf) - This paper presents the first systematic study of the interactions occurring in a number of NFT ecosystems.
+
 
 ## Stable-Coins:
 
