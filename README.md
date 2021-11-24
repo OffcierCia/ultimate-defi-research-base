@@ -196,6 +196,8 @@
 
 ## Non-Fungible Token (NFT):
 
+- [The Economics of Blockchain-Based Virtual Worlds: A Hedonic Regression Model for Virtual Land](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3932189) - Empirical analysis of land prices in Decentraland.
+
 - [Mapping the NFT revolution](https://arxiv.org/pdf/2106.00647.pdf) - Market trends, trade networks and visual features.
 
 - [Fairness in ERC token markets](https://arxiv.org/pdf/2102.03721.pdf) - A Case Study of CryptoKitties.
