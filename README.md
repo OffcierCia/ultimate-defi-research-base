@@ -42,7 +42,9 @@
 - [Sov's Compendium](https://sovs.notion.site/sovs/Sov-s-Compendium-41f097d28dae4d09801f10cde1b2d03b)
 - [Awesome Blogs](https://start.me/w/nPprJD)
 
-Also, here is a study by Arxiv on how to read and parse Arxiv studies: [arxiv.org/pdf/1806.09525.pdf](https://arxiv.org/pdf/1806.09525.pdf) & [guide to reading academic research papers](https://towardsdatascience.com/guide-to-reading-academic-research-papers-c69c21619de6). Also x2, here’s a handy checklist for anyone who wants to contribute to Arxiv: [towardsdatascience.com/a-checklist-for-submitting-your-research-to-arxiv-64f31b4127d2](https://towardsdatascience.com/a-checklist-for-submitting-your-research-to-arxiv-64f31b4127d2).
+Also, [here is a study by Arxiv on how to read and parse Arxiv studies!](https://arxiv.org/pdf/1806.09525.pdf) & [guide to reading academic research papers](https://towardsdatascience.com/guide-to-reading-academic-research-papers-c69c21619de6)
+
+Also x2, [here’s a handy checklist for anyone who wants to contribute to Arxiv!](https://towardsdatascience.com/a-checklist-for-submitting-your-research-to-arxiv-64f31b4127d2)
 
 **| Check out:**
 
