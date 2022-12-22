@@ -30,6 +30,24 @@
 - [All known smart contract-side and user-side attacks & attack vectors](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31)
 - [Key principles of storing crypto cold wallet attacks defense methods best practices](https://hackernoon.com/whats-the-safest-way-to-store-crypto)
 
+**| Follow:**
+
+- [ethereum-magicians.org](https://ethereum-magicians.org)
+- [smartcontractresearch.org](https://www.smartcontractresearch.org)
+- [Library of Ethereum](https://github.com/ArpitIngle/Library-of-Ethereum)
+- [Crypto Research Papers](https://github.com/XuTPoBaH/Crypto-Research-Papers)
+- [Awesome Article](https://officercia.medium.com/officer-cia-x-maxwayld-content-overview-39fa3011a73f)
+- [Compendium](https://github.com/sambacha/compendium)
+- [Follow fin_tech](https://twitter.com/fin_tech)
+- [Sov's Compendium](https://sovs.notion.site/sovs/Sov-s-Compendium-41f097d28dae4d09801f10cde1b2d03b)
+- [Awesome Blogs](https://start.me/w/nPprJD)
+
+Also, here is a study by Arxiv on how to read and parse Arxiv studies: [arxiv.org/pdf/1806.09525.pdf](https://arxiv.org/pdf/1806.09525.pdf) & [guide to reading academic research papers](https://towardsdatascience.com/guide-to-reading-academic-research-papers-c69c21619de6). Also x2, here’s a handy checklist for anyone who wants to contribute to Arxiv: [towardsdatascience.com/a-checklist-for-submitting-your-research-to-arxiv-64f31b4127d2](https://towardsdatascience.com/a-checklist-for-submitting-your-research-to-arxiv-64f31b4127d2).
+
+**| Check out:**
+
+- [How to Become a 1000 Year Old Vampire](www.lesswrong.com/posts/5QpufhoH2ASnppsjs/how-to-become-a-1000-year-old-vampire)
+- [How to know when to stop](www.lennysnewsletter.com/p/how-to-know-when-to-stop)
 
 ## DeFi Science:
 
