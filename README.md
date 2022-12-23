@@ -111,6 +111,8 @@ Also x2, [here’s a handy checklist for anyone who wants to contribute to Arxiv
 
 - [ The Eye of Horus: Spotting and Analyzing Attacks on Ethereum Smart Contracts](https://arxiv.org/pdf/2101.06204.pdf) -Investigation shows that the number of attacks did not necessarily decrease over the past few years, but for some vulnerabilities remained constant.
 
+- [A chronological and (hopefully) complete list of reentrancy attacks to date.](https://github.com/pcaversaccio/reentrancy-attacks)
+
 - [Analysis of Bitcoin Vulnerability to Bribery Attacks Launched Through Large Transactions](https://arxiv.org/pdf/2105.07501.pdf) -  In this paper, authors design a novel bribery attack and show that this guarantee can be hugely undermined.
 
 - [Vulnerability of Blockchain Technologies to Quantum Attacks](https://arxiv.org/pdf/2105.01815.pdf) - Here authors analyze the major blockchain-based cryptocurrencies deployed today -- including Bitcoin, Ethereum, Litecoin and ZCash, and determine risk exposure to quantum attacks. 
