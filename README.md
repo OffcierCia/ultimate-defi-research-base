@@ -50,6 +50,7 @@ Also x2, [here’s a handy checklist for anyone who wants to contribute to Arxiv
 
 - [How to Become a 1000 Year Old Vampire](www.lesswrong.com/posts/5QpufhoH2ASnppsjs/how-to-become-a-1000-year-old-vampire)
 - [How to know when to stop](www.lennysnewsletter.com/p/how-to-know-when-to-stop)
+- [What is SoK](https://www.jsys.org/type_SoK)
 
 ## DeFi Science:
 
