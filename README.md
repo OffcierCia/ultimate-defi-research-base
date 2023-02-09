@@ -48,6 +48,8 @@ Also, [here is a study by Arxiv on how to read and parse Arxiv studies](https://
 
 Also x2, [here’s a handy checklist for anyone who wants to contribute to Arxiv!](https://towardsdatascience.com/a-checklist-for-submitting-your-research-to-arxiv-64f31b4127d2)
 
+Also, x3, [here’s a handy a list of 8 tools to help find, read and analyse research papers!](https://tressel.xyz/threads/1623655360799072256)
+
 **| Check out:**
 
 - [How to Become a 1000 Year Old Vampire](https://lesswrong.com/posts/5QpufhoH2ASnppsjs/how-to-become-a-1000-year-old-vampire)
