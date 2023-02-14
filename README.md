@@ -40,6 +40,9 @@
 - [Crypto Research Papers](https://github.com/XuTPoBaH/Crypto-Research-Papers)
 - [Awesome Article](https://officercia.medium.com/officer-cia-x-maxwayld-content-overview-39fa3011a73f)
 - [Compendium](https://github.com/sambacha/compendium)
+- [Follow ArxivAbs](https://twitter.com/arxivabs)
+- [Follow Arxiv](https://twitter.com/arxiv)
+- [newsletter.blockthreat.io](https://newsletter.blockthreat.io)
 - [Follow fin_tech](https://twitter.com/fin_tech)
 - [Sov's Compendium](https://sovs.notion.site/sovs/Sov-s-Compendium-41f097d28dae4d09801f10cde1b2d03b)
 - [Awesome Blogs](https://start.me/w/nPprJD)
@@ -474,7 +477,9 @@ __________                 ___________           .__           .____    .__     
 - [Ethereum 2.0 Distributed Remote Key Manager](https://github.com/attestantio/dirk)
 
 
-## Transaction Visualization, Scoring & Tracking:
+## [Transaction Visualization, Scoring & Tracking:](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/blob/main/README.md)
+
+### Moved here: [Link](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/blob/main/README.md)
 
 - [BlockPath](http://blockpath.com) 
 - [Maltego](http://maltego.com) 
