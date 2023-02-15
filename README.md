@@ -387,22 +387,12 @@ __________                 ___________           .__           .____    .__     
 
 ## Favourites:
 
-- [DeFi Defence DAO Tools](https://github.com/defi-defense-dao/defi-risk-tools-list#developer-tools) 
 - [Eth Dapp Developer Roadmap](https://github.com/thecryptoshed/eth-dapp-developer-roadmap) 
 - [Blockchain Learning Path](https://github.com/protofire/blockchain-learning-path) 
-- [ADF](https://github.com/ong/awesome-decentralized-finance) 
-- [DeFi Toolkit](https://github.com/gweicz/defi-toolkit)
-- [BlockTools](https://github.com/nujabes403/blockchains-tools)
-- [SAW List](https://simpleaswater.com/defi/#analytics)
-- [Public APIs](https://github.com/public-apis/public-apis#cryptocurrency)
-- [BTC List](https://github.com/igorbarinov/awesome-bitcoin)
 - [ConsenSys](https://github.com/ConsenSys/ethereum-developer-tools-list)
-- [EVM Tools](https://github.com/CoinCulture/evm-tools)
-- [Solidity Pro](https://github.com/bkrem/awesome-solidity)
 - [Zhihu Research Base](https://zhuanlan.zhihu.com/p/265374061)
 - [OpenZeppelin - Contracts / Test Helpers + More ](https://github.com/OpenZeppelin)
 - [Tudelft Repo](https://repository.tudelft.nl)
-- [The Reading List](https://www.decentralised.co/the-reading-list) and [This repo](https://github.com/sambacha/compendium) with [Engineering Data List](https://github.com/sambacha/art-of-engineering/blob/master/ENGINEERING_ART_OF.md)
 
 ## Developer Tools 
 
@@ -430,27 +420,14 @@ __________                 ___________           .__           .____    .__     
 
 ## Ethereum Tools
 
-- [Source](https://github.com/gweicz/defi-toolkit) DeFi ToolKit collection
-- [Ethstats](https://ethstats.io)
-- [Node Stats](https://ethernodes.org)
-- [EVM Networks List](https://chainid.network)
 - [BIP39 Derivation](https://iancoleman.io/bip39)
-- [Vanity Generator](https://github.com/johguse/profanity) 
-- [Web Vanity Generator](https://vanity-eth.tk) 
-- [Vanity Eth Generators](https://github.com/search?q=eth+vanity)
-- [FindETH](https://findeth.io) 
-- [Eth Tx Decoder](https://antoncoding.github.io/eth-tx-decoder)
-- [Ethereum input data decoder](https://lab.miguelmota.com/ethereum-input-data-decoder)
 - [Ethereum Gas Charts](https://ethereumprice.org/gas)
 - [Ethereum TxPool Statistics](https://txpool.zengo.com/) 
 - [Gas Prices Dashboard ](https://explore.duneanalytics.com/public/dashboards/qswVMdzbyiiZFdnCDSwx1jfYLOjdaokM4CSGNxsH)
-- [The UI from ABI](https://ethcontract.watch)
-- [Oracles Club](https://oracles.club)
 - [Tx Combo](https://furucombo.app)
 - [ETH or ERC-20 Mass-sender](https://disperse.app)
 - [BulkSender](https://bulksender.app)
 - [ERC20 Meta Token Wrapper](https://github.com/arcadeum/erc20-meta-token) 
-- [Cancel Ethereum Transaction](https://github.com/mds1/Cancel-Ethereum-Transactions)
 - [Fees WTF Calculator](https://fees.wtf) 
 - [Spend Gas Stats](https://txn.finance) 
 - [Pools Stats](https://pools.fyi) 
