@@ -46,7 +46,7 @@
 - [Follow fin_tech](https://twitter.com/fin_tech)
 - [Sov's Compendium](https://sovs.notion.site/sovs/Sov-s-Compendium-41f097d28dae4d09801f10cde1b2d03b)
 - [Awesome Blogs](https://start.me/w/nPprJD)
-- [Repository of 500 web3 reports:](https://drive.google.com/drive/u/2/mobile/folders/1oyGnZE2ce5t6MZ1ytMLDr5OKuQAOkEdR?pli=1)
+- [Repository of 500 web3 reports](https://drive.google.com/drive/u/2/mobile/folders/1oyGnZE2ce5t6MZ1ytMLDr5OKuQAOkEdR?pli=1)
 
 Also, [here is a study by Arxiv on how to read and parse Arxiv studies](https://arxiv.org/pdf/1806.09525.pdf) & [guide to reading academic research papers!](https://towardsdatascience.com/guide-to-reading-academic-research-papers-c69c21619de6)
 
