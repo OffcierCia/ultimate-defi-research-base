@@ -36,6 +36,7 @@
 - [smartcontractresearch.org](https://www.smartcontractresearch.org)
 - [Library of Ethereum](https://github.com/ArpitIngle/Library-of-Ethereum)
 - [Cryptsecurity Studies](https://twitter.com/cryptsecurity)
+- [blockchain science - rust edition](https://github.com/go-outside-labs/blockchain-science-rs)
 - [Retrospective: Hacks in Web3](https://officercia.medium.com/retrospective-hacks-in-web3-cc83b8ee0e93)
 - [Crypto Research Papers](https://github.com/XuTPoBaH/Crypto-Research-Papers)
 - [Awesome Article](https://officercia.medium.com/officer-cia-x-maxwayld-content-overview-39fa3011a73f)
