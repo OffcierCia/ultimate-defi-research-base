@@ -63,6 +63,7 @@ Also, x3, [here’s a handy a list of 8 tools to help find, read and analyse res
 
 ## DeFi Science:
 
+> Tip: Use [www.arxiv-vanity.com](https://www.arxiv-vanity.com/) or [dangerzone.rocks](https://telegra.ph/DangerZone-04-19)!
 
 - [Formal Analysis of Composable DeFi Protocols ](https://arxiv.org/pdf/2103.00540.pdf) - In this paper, authors propose a formal process-algebraic technique that models DeFi protocols in a compositional manner to allow for efficient property verification.
 
