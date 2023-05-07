@@ -43,6 +43,7 @@
 - [Compendium](https://github.com/sambacha/compendium)
 - [Follow ArxivAbs](https://twitter.com/arxivabs)
 - [Follow Arxiv](https://twitter.com/arxiv)
+- [Academic_Smart_Contract_Papers](https://github.com/hzysvilla/Academic_Smart_Contract_Papers)
 - [newsletter.blockthreat.io](https://newsletter.blockthreat.io)
 - [Follow fin_tech](https://twitter.com/fin_tech)
 - [Sov's Compendium](https://sovs.notion.site/sovs/Sov-s-Compendium-41f097d28dae4d09801f10cde1b2d03b)
