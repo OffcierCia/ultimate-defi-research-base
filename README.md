@@ -402,6 +402,7 @@ __________                 ___________           .__           .____    .__     
 - [Zhihu Research Base](https://zhuanlan.zhihu.com/p/265374061)
 - [OpenZeppelin - Contracts / Test Helpers + More ](https://github.com/OpenZeppelin)
 - [Tudelft Repo](https://repository.tudelft.nl)
+- [Slitherin: Slither Detectors by Pessimistic.io](https://github.com/pessimistic-io/slitherin)
 
 ## Developer Tools 
 
@@ -439,8 +440,8 @@ __________                 ___________           .__           .____    .__     
 - [ERC20 Meta Token Wrapper](https://github.com/arcadeum/erc20-meta-token) 
 - [Fees WTF Calculator](https://fees.wtf) 
 - [Spend Gas Stats](https://txn.finance) 
-- [Pools Stats](https://pools.fyi) 
-
+- [Pools Stats](https://pools.fyi)
+- [Slitherin: Slither Detectors by Pessimistic.io](https://github.com/pessimistic-io/slitherin)
 
 ## NFTs
 
@@ -451,7 +452,6 @@ __________                 ___________           .__           .____    .__     
 - [RMRK App](https://app.subsocial.network/@rmrkapp/dawn-of-the-art-legos-18289) - NFT Project on Kusama & Polkadot - added by [Swader](https://github.com/Swader)
 - [NFTS TOP]( https://cryptoslam.io) - NFT Ranking
 
-
 ## Ethereum 2.0
 - [Beaconcha](https://beaconcha.in/)
 - [Beaconscan](https://beaconscan.com/)
@@ -461,7 +461,6 @@ __________                 ___________           .__           .____    .__     
 - [Ethereum 2.0 Forks](https://eth2-fork-mon.stokes.io/) 
 - [Ethereum 2.0 Multi-node Validator Client](https://github.com/attestantio/vouch)
 - [Ethereum 2.0 Distributed Remote Key Manager](https://github.com/attestantio/dirk)
-
 
 ## [Transaction Visualization, Scoring & Tracking:](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/blob/main/README.md)
 
@@ -490,7 +489,6 @@ __________                 ___________           .__           .____    .__     
 - [TRM Labs](https://trmlabs.com)
 - [Halborn Forensic](https://halborn.com)
 - [Visual List](https://www.lopp.net/bitcoin-information/visualizations.html)
-
 
 ## Support Me:
 
