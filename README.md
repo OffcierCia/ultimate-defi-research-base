@@ -235,7 +235,9 @@ Also, x3, [here’s a handy a list of 8 tools to help find, read and analyse res
 
 - [SCSGuard: Deep Scam Detection for Ethereum Smart Contracts](https://arxiv.org/pdf/2105.10426.pdf) - Experimental results manifest that SCSGuard achieves high accuracy (0.94), precision (0.96\%) and recall (0.98) for both Ponzi and Honeypot scams, and new Phishing smart contracts.
 
-- [Securing Cyber-Physical Systems Through Blockchain-Based Digital Twins and Threat Intelligence](https://arxiv.org/pdf/2105.08886.pdf) - This article focuses on securing CPSs by integrating Artificial Intelligence (AI) and blockchain for intelligent and trusted DTs. 
+- [Securing Cyber-Physical Systems Through Blockchain-Based Digital Twins and Threat Intelligence](https://arxiv.org/pdf/2105.08886.pdf) - This article focuses on securing CPSs by integrating Artificial Intelligence (AI) and blockchain for intelligent and trusted DTs.
+
+- [Vyper: A Security Comparison with Solidity Based on Common Vulnerabilities](https://arxiv.org/pdf/2003.07435.pdf) - This article focuses on well-known and commonly-encountered vulnerabilities in Solidity feature in Vyper’s development environment.
 
 
 ## Non-Fungible Token (NFT):
