@@ -361,6 +361,7 @@ price surcharge system based on calculated a time-dependent average transfer rat
 
 - [The Decentralised Financial Crisis](https://arxiv.org/abs/2002.08099) - The Global Financial Crisis of 2008, caused by the accumulation of excessive financial risk, inspired Satoshi Nakamoto to create Bitcoin. Now, more than ten years later, Decentralized Finance (DeFi), a peer-to-peer financial paradigm which leverages blockchain-based smart contracts to ensure its integrity and security, contains over 702m USD of capital as of April 15th, 2020. As this ecosystem develops, it is at risk of the very sort of financial meltdown it is supposed to be preventing. In this paper we explore how design weaknesses and price fluctuations in DeFi protocols could lead to a potential DeFi crisis.
 
+- [Comparing Virtual Machines: Message Only vs Asset-Oriented](https://www.radixdlt.com/blog/comparing-virtual-machines-message-only-vs-asset-oriented) - Web3 is predicated on the notion that individuals can own assets on the internet. From DeFi, to Sovereign Identity, to Decentralized Autonomous Organizations (DAOs), every Web3 use case depends on digital assets of value - tokens; combined with self-executing rules on how those assets can be used - smart contracts, to incentivize decentralized communities of node-runners, developers, and users to deliver Web3 products and services.
 
 ## MEV - Maximal Extractable Value:
 
