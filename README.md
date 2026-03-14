@@ -279,6 +279,14 @@ price surcharge system based on calculated a time-dependent average transfer rat
 
 ## General information:
 
+- [How to Design Tokenomics: A Framework from 20+ Projects](https://cryptoeconlab.com/blog/tokenomics-design-framework) - Authors present a practical framework for token economy design covering supply models, distribution, incentive mechanisms, and stress-testing, drawn from consulting engagements across DeFi, DePIN, and L2 protocols.
+
+- [Token Emission Schedules Explained](https://cryptoeconlab.com/blog/token-emission-schedules) - Authors compare linear, exponential decay, and demand-based emission models, analyzing tradeoffs in sell pressure, incentive sustainability, and adaptability across protocol lifecycles.
+
+- [What a Tokenomics Audit Covers](https://cryptoeconlab.com/blog/tokenomics-audit-checklist) - Authors present a comprehensive framework for evaluating token economy design across six areas: supply mechanics, distribution, incentive sustainability, governance security, market dynamics, and regulatory exposure.
+
+- [Token Vesting Schedules: What Actually Works](https://cryptoeconlab.com/blog/token-vesting-schedules) - Authors analyze vesting structures across dozens of protocols, identifying optimal cliff periods, unlock shapes, and common failure modes including coordinated cliff dates and oversized TGE unlocks.
+
 - [Stochastic Properties of EIP1559 Basefees](https://arxiv.org/pdf/2105.03521.pdf) - Authors explain the new pricing mechanism for the Ethereum developed to bring stability to fluctuating gas prices.
 
 - [101 the Principles of Tokenomics](https://tokendynamics.xyz/tokenomics-101-the-principles-of-tokenomics/) - This article is a reprint of the original on Eat Sleep Crypto, last edited Jan 12, 2023
