@@ -440,6 +440,7 @@ __________                 ___________           .__           .____    .__     
 - [Piet](https://piet.slock.it) - A visual Solidity architecture analyzer
 - [Dappy](https://dappy.tech) - A no-DNS web browser and name system powered by the blockchain. - added by [Fabcotech](https://github.com/fabcotech)
 - [Ethereum-datafarm](https://github.com/Nerolation/ethereum-datafarm) - Easy-to-use console app for parsing historical event data without requiring an archive node, using the Etherscan API.
+- [Aegis](https://github.com/StanleytheGoat/aegis) - DeFi safety layer for autonomous AI agents. MCP server that scans contracts against 165 exploit patterns, simulates transactions on forked chains, and blocks honeypots. Deployed on Base mainnet with smart contracts for on-chain verification.
 
 ## Ethereum Tools
 
