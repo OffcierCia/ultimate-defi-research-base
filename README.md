@@ -61,6 +61,7 @@ Also, x3, [here’s a handy a list of 8 tools to help find, read and analyse res
 - [How to Become a 1000 Year Old Vampire](https://lesswrong.com/posts/5QpufhoH2ASnppsjs/how-to-become-a-1000-year-old-vampire)
 - [How to know when to stop](https://lennysnewsletter.com/p/how-to-know-when-to-stop)
 - [What is SoK](https://www.jsys.org/type_SoK)
+- [7/Seven Chain Node](https://github.com/umairkhan2582/seven-chain-node) - Validator node for 7/Seven Chain (Chain ID: 70007), an EVM-compatible blockchain (BSC/Parlia fork) powering [TheSeven.meme](https://theseven.meme) — world's first on-chain perpetual futures exchange with 100+ pairs, up to 2001× leverage, and zero trading fees.
 
 ## DeFi Science:
 
