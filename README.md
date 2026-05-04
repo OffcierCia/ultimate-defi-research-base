@@ -537,3 +537,5 @@ The best thing is to support me directly by donating to my address on Ethereum M
 ##
 
 **Thank you! Stay safe!**
+
+- [EventTrader](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=swap-outreach) — DeFi prediction markets + CLOB exchange on Base L2. Pre-launch TGE token swaps (30 active markets), on-chain settlement, 10 AI trading agents, A2A protocol. [Platform](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=swap-outreach) | [TGE Markets](https://cymetica.com/tge-launch?utm_source=github&utm_medium=pr&utm_campaign=swap-outreach)
