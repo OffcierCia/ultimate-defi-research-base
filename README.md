@@ -416,6 +416,7 @@ __________                 ___________           .__           .____    .__     
 - [OpenZeppelin - Contracts / Test Helpers + More ](https://github.com/OpenZeppelin)
 - [Tudelft Repo](https://repository.tudelft.nl)
 - [Slitherin: Slither Detectors by Pessimistic.io](https://github.com/pessimistic-io/slitherin)
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust-scoring MCP server for x402 agents on Solana. Free on-chain preflight checks trust + identity signals; signed trust receipt via USDC micropayment (<$0.01, <1s settlement).
 
 ## Developer Tools 
 
@@ -455,6 +456,7 @@ __________                 ___________           .__           .____    .__     
 - [Spend Gas Stats](https://txn.finance) 
 - [Pools Stats](https://pools.fyi)
 - [Slitherin: Slither Detectors by Pessimistic.io](https://github.com/pessimistic-io/slitherin)
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust-scoring MCP server for x402 agents on Solana. Free on-chain preflight checks trust + identity signals; signed trust receipt via USDC micropayment (<$0.01, <1s settlement).
 
 ## NFTs
 
