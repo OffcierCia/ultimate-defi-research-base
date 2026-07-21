@@ -455,6 +455,7 @@ __________                 ___________           .__           .____    .__     
 - [Spend Gas Stats](https://txn.finance) 
 - [Pools Stats](https://pools.fyi)
 - [Slitherin: Slither Detectors by Pessimistic.io](https://github.com/pessimistic-io/slitherin)
+- [Testnet Faucets Status](https://testnetfaucets.dev) - Live dashboard tracking the health of 36 testnet faucets across 30+ networks, checked daily
 
 ## NFTs
 
