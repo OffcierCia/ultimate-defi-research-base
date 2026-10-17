@@ -238,6 +238,7 @@ Also, x3, [here’s a handy a list of 8 tools to help find, read and analyse res
 - [Securing Cyber-Physical Systems Through Blockchain-Based Digital Twins and Threat Intelligence](https://arxiv.org/pdf/2105.08886.pdf) - This article focuses on securing CPSs by integrating Artificial Intelligence (AI) and blockchain for intelligent and trusted DTs.
 
 - [Vyper: A Security Comparison with Solidity Based on Common Vulnerabilities](https://arxiv.org/pdf/2003.07435.pdf) - This article focuses on well-known and commonly-encountered vulnerabilities in Solidity feature in Vyper’s development environment.
+- [The Ledger–CryptoBilis Hack: How Buying a Trusted Reseller Became the Attack](https://theonchaindiary.com/articles/ledger-cryptobilis-supply-chain-hack/) - Industry investigation: an authorized hardware-wallet reseller was covertly acquired and used to distribute implanted devices; an estimated $93M-$102M was drained from 324+ wallets in a coordinated sweep.
 
 
 ## Non-Fungible Token (NFT):
