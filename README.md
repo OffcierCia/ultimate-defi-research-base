@@ -453,7 +453,7 @@ __________                 ___________           .__           .____    .__     
 - [ERC20 Meta Token Wrapper](https://github.com/arcadeum/erc20-meta-token) 
 - [Fees WTF Calculator](https://fees.wtf) 
 - [Spend Gas Stats](https://txn.finance) 
-- [Pools Stats](https://pools.fyi)
+- [DefiLPKit](https://defilpkit.com) - Free read-only LP calculator: paste a pool address or token pair to check fee APR, estimated net yield after impermanent loss and gas, and test a range on Uniswap v3, PancakeSwap v3, Aerodrome Slipstream and Raydium CLMM (no wallet connect, no signup). Replaces the dead `pools.fyi` link previously listed here.
 - [Slitherin: Slither Detectors by Pessimistic.io](https://github.com/pessimistic-io/slitherin)
 
 ## NFTs
