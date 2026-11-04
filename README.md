@@ -440,6 +440,7 @@ __________                 ___________           .__           .____    .__     
 - [Piet](https://piet.slock.it) - A visual Solidity architecture analyzer
 - [Dappy](https://dappy.tech) - A no-DNS web browser and name system powered by the blockchain. - added by [Fabcotech](https://github.com/fabcotech)
 - [Ethereum-datafarm](https://github.com/Nerolation/ethereum-datafarm) - Easy-to-use console app for parsing historical event data without requiring an archive node, using the Etherscan API.
+- [DefiLPKit](https://defilpkit.com) - Free read-only LP calculator: fee APR, estimated net yield after impermanent loss and gas, and range scenarios for Uniswap v3, PancakeSwap v3, Aerodrome and Raydium pools.
 
 ## Ethereum Tools
 
