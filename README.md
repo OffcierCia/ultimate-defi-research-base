@@ -238,6 +238,7 @@ Also, x3, [here’s a handy a list of 8 tools to help find, read and analyse res
 - [Securing Cyber-Physical Systems Through Blockchain-Based Digital Twins and Threat Intelligence](https://arxiv.org/pdf/2105.08886.pdf) - This article focuses on securing CPSs by integrating Artificial Intelligence (AI) and blockchain for intelligent and trusted DTs.
 
 - [Vyper: A Security Comparison with Solidity Based on Common Vulnerabilities](https://arxiv.org/pdf/2003.07435.pdf) - This article focuses on well-known and commonly-encountered vulnerabilities in Solidity feature in Vyper’s development environment.
+- [Solana Rent & Rug Shield](https://rentandrugshield.com) - Real-time 12-layer Solana SPL & Token-2022 rug detection, Slot-0 Jito Sybil bundle analysis, Layer 9 Inner CPI simulation, and open benchmark dataset ([GitHub](https://github.com/sonnyman2014/solana-rug-audit-benchmark)).
 
 
 ## Non-Fungible Token (NFT):
